@@ -1,0 +1,11 @@
+com.brightbots
+com.brightbots.box
+com.brightbots.db
+com.brightbots.db.entity
+com.brightbots.db.triggers
+com.brightbots.dto
+com.brightbots.dto.watsonchat
+com.brightbots.processrequest
+com.brightbots.restservices
+com.brightbots.teams
+com.brightbots.util

@@ -1,0 +1,845 @@
+genericId,watsonChatId,responseType,responseText
+null,33236280-ffb6-41c8-86b8-a50e7dcf96f0,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,33236280-ffb6-41c8-86b8-a50e7dcf96f0,pause,1000
+null,33236280-ffb6-41c8-86b8-a50e7dcf96f0,text,I'm here to assist you with your Maximo related questions
+null,33236280-ffb6-41c8-86b8-a50e7dcf96f0,pause,1000
+null,33236280-ffb6-41c8-86b8-a50e7dcf96f0,text,Please select an option or type your question below
+null,33236280-ffb6-41c8-86b8-a50e7dcf96f0,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" 
+null,33236280-ffb6-41c8-86b8-a50e7dcf96f0,suggestion,"Search TRM Document Library: what is maximo" "Preventive Maintenance: what is maximo" "Define SLA: what is maximo" "None of the above: what is maximo" 
+null,607574b6-0796-46ed-911d-3edcac247bb6,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,607574b6-0796-46ed-911d-3edcac247bb6,pause,1000
+null,607574b6-0796-46ed-911d-3edcac247bb6,text,I'm here to assist you with your Maximo related questions
+null,607574b6-0796-46ed-911d-3edcac247bb6,pause,1000
+null,607574b6-0796-46ed-911d-3edcac247bb6,text,Please select an option or type your question below
+null,607574b6-0796-46ed-911d-3edcac247bb6,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" 
+null,607574b6-0796-46ed-911d-3edcac247bb6,search,"How to Create and Run a Quick Ad Hoc Report.pdf" "Ad Hoc Report Types  .pdf" "Creating Ad Hoc Reports .pdf" 
+null,01a299fe-017a-40e4-b4fe-f42065cbca3c,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,01a299fe-017a-40e4-b4fe-f42065cbca3c,pause,1000
+null,01a299fe-017a-40e4-b4fe-f42065cbca3c,text,I'm here to assist you with your Maximo related questions
+null,01a299fe-017a-40e4-b4fe-f42065cbca3c,pause,1000
+null,01a299fe-017a-40e4-b4fe-f42065cbca3c,text,Please select an option or type your question below
+null,01a299fe-017a-40e4-b4fe-f42065cbca3c,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" 
+null,01a299fe-017a-40e4-b4fe-f42065cbca3c,search,"LOCATION & ASSET HIERARCHY.pdf" "LOCATIONS APPLICATION OVERVIEW - create a service address.pdf" "Controlling ValueLists through Rules Manager.pdf" 
+null,e47744e3-84ff-42af-ac17-8206dba8b28f,text,You use the Failure Codes application to build and to display failure hierarchies. Hierarchies help you construct accurate histories of the failures that affect your assets and operating locations. 
+null,e47744e3-84ff-42af-ac17-8206dba8b28f,option,"Failure Code Hierarchy" "Failure Code Duplicate" 
+null,e47744e3-84ff-42af-ac17-8206dba8b28f,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,e47744e3-84ff-42af-ac17-8206dba8b28f,pause,1000
+null,e47744e3-84ff-42af-ac17-8206dba8b28f,text,I'm here to assist you with your Maximo related questions
+null,e47744e3-84ff-42af-ac17-8206dba8b28f,pause,1000
+null,e47744e3-84ff-42af-ac17-8206dba8b28f,text,Please select an option or type your question below
+null,e47744e3-84ff-42af-ac17-8206dba8b28f,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" 
+null,e47744e3-84ff-42af-ac17-8206dba8b28f,suggestion,"Failure Code Application: assign failure class" "Failure Code Hierarchy: assign failure class" "None of the above: assign failure class" 
+null,3789dfed-0767-4756-b3fc-c16818fa4e4a,search,"How to Create and Run a Quick Ad Hoc Report.pdf" "How to_ Export an AD HOC to Eclipse BIRT Designer.pdf" "Ad hoc report Administration .pdf" 
+null,2f637c34-dae9-4141-b4d2-a03f1e5763aa,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,2f637c34-dae9-4141-b4d2-a03f1e5763aa,pause,1000
+null,2f637c34-dae9-4141-b4d2-a03f1e5763aa,text,I'm here to assist you with your Maximo related questions
+null,2f637c34-dae9-4141-b4d2-a03f1e5763aa,pause,1000
+null,2f637c34-dae9-4141-b4d2-a03f1e5763aa,text,Please select an option or type your question below
+null,2f637c34-dae9-4141-b4d2-a03f1e5763aa,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" 
+null,3789dfed-0767-4756-b3fc-c16818fa4e4a,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,3789dfed-0767-4756-b3fc-c16818fa4e4a,pause,1000
+null,3789dfed-0767-4756-b3fc-c16818fa4e4a,text,I'm here to assist you with your Maximo related questions
+null,3789dfed-0767-4756-b3fc-c16818fa4e4a,pause,1000
+null,3789dfed-0767-4756-b3fc-c16818fa4e4a,text,Please select an option or type your question below
+null,3789dfed-0767-4756-b3fc-c16818fa4e4a,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" 
+null,57ed363c-e1bf-4f8d-8812-8dd865ef700d,search,"How to Create and Run a Quick Ad Hoc Report.pdf" "How to_ Export an AD HOC to Eclipse BIRT Designer.pdf" "Ad hoc report Administration .pdf" 
+null,57ed363c-e1bf-4f8d-8812-8dd865ef700d,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,57ed363c-e1bf-4f8d-8812-8dd865ef700d,pause,1000
+null,57ed363c-e1bf-4f8d-8812-8dd865ef700d,text,I'm here to assist you with your Maximo related questions
+null,57ed363c-e1bf-4f8d-8812-8dd865ef700d,pause,1000
+null,57ed363c-e1bf-4f8d-8812-8dd865ef700d,text,Please select an option or type your question below
+null,57ed363c-e1bf-4f8d-8812-8dd865ef700d,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" 
+null,57ed363c-e1bf-4f8d-8812-8dd865ef700d,text,Ok, please tell me your email.
+null,57ed363c-e1bf-4f8d-8812-8dd865ef700d,image,NO TEXT FOR image
+null,57ed363c-e1bf-4f8d-8812-8dd865ef700d,text,[Request agent →](https://teams.microsoft.com/_#/conversations/?ctx=chat)
+null,57ed363c-e1bf-4f8d-8812-8dd865ef700d,text,Sorry for the trouble but we need this information to connect you with a best suited agent. 
+null,57ed363c-e1bf-4f8d-8812-8dd865ef700d,text,To connect to an agent, we will need some of your information first. Please tell us your name.
+null,57ed363c-e1bf-4f8d-8812-8dd865ef700d,text,Ok, please type in your query then wait for an agent.
+null,621b384c-3dc7-4e43-aa10-7541ebee892d,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,621b384c-3dc7-4e43-aa10-7541ebee892d,pause,1000
+null,621b384c-3dc7-4e43-aa10-7541ebee892d,text,I'm here to assist you with your Maximo related questions
+null,621b384c-3dc7-4e43-aa10-7541ebee892d,pause,1000
+null,621b384c-3dc7-4e43-aa10-7541ebee892d,text,Please select an option or type your question below
+null,621b384c-3dc7-4e43-aa10-7541ebee892d,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" 
+null,621b384c-3dc7-4e43-aa10-7541ebee892d,text,IBM Maximo is an Enterprise Asset Management (EAM) solution (equipment, installations, buildings, etc) that provides purchasing, inventory, management of locations, service desk, and work planning. Maximo utilizes a series of applications, within modules, to setup and maintain an organization’s asset management plan. When using the Go To menu to navigate to these applications, the list in the drop-down menu is the list of modules. The menu expands to show the applications within each module. In some instances, there are categories of applications, so an additional list level is between the module name and application name.
+null,621b384c-3dc7-4e43-aa10-7541ebee892d,option,"Terminology" "Asset Management" "Item Master" "Work Order" "Preventive Maintenance" "Purchase Order" "Service Request" 
+null,621b384c-3dc7-4e43-aa10-7541ebee892d,search,"ASSET TERMINOLOGY.pdf" 
+null,e2e70176-fb43-43ec-86b1-c507254b65f3,text,IBM Maximo is an Enterprise Asset Management (EAM) solution (equipment, installations, buildings, etc) that provides purchasing, inventory, management of locations, service desk, and work planning. Maximo utilizes a series of applications, within modules, to setup and maintain an organization’s asset management plan. When using the Go To menu to navigate to these applications, the list in the drop-down menu is the list of modules. The menu expands to show the applications within each module. In some instances, there are categories of applications, so an additional list level is between the module name and application name.
+null,e2e70176-fb43-43ec-86b1-c507254b65f3,option,"Key Terms" "Asset Management" "Item Master" "Work Order" "Preventive Maintenance" "Purchase Order" "Service Request" 
+null,e2e70176-fb43-43ec-86b1-c507254b65f3,search,"Warranty Contracts Application Overview.pdf" "Warranty Contracts Application Tabs.pdf" "Invoices Application Overview.pdf" 
+null,8acdea26-f94b-45f5-b5e1-0df91546063b,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,8acdea26-f94b-45f5-b5e1-0df91546063b,pause,1000
+null,8acdea26-f94b-45f5-b5e1-0df91546063b,text,I'm here to assist you with your Maximo related questions
+null,8acdea26-f94b-45f5-b5e1-0df91546063b,pause,1000
+null,8acdea26-f94b-45f5-b5e1-0df91546063b,text,Please select an option or type your question below
+null,8acdea26-f94b-45f5-b5e1-0df91546063b,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,8acdea26-f94b-45f5-b5e1-0df91546063b,text,IBM Maximo is an Enterprise Asset Management (EAM) solution (equipment, installations, buildings, etc) that provides purchasing, inventory, management of locations, service desk, and work planning. Maximo utilizes a series of applications, within modules, to setup and maintain an organization’s asset management plan. When using the Go To menu to navigate to these applications, the list in the drop-down menu is the list of modules. The menu expands to show the applications within each module. In some instances, there are categories of applications, so an additional list level is between the module name and application name.
+null,8acdea26-f94b-45f5-b5e1-0df91546063b,option,"Key Terms" "Asset Management" "Item Master" "Work Order" "Preventive Maintenance" "Purchase Order" "Service Request" 
+null,8acdea26-f94b-45f5-b5e1-0df91546063b,text,To create a new Asset:  On the toolbar of the Assets application, click the New Asset icon.  To save an Asset: On the toolbar of the Assets application, click the Save Asset icon.
+null,e2e70176-fb43-43ec-86b1-c507254b65f3,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,e2e70176-fb43-43ec-86b1-c507254b65f3,pause,1000
+null,e2e70176-fb43-43ec-86b1-c507254b65f3,text,I'm here to assist you with your Maximo related questions
+null,e2e70176-fb43-43ec-86b1-c507254b65f3,pause,1000
+null,e2e70176-fb43-43ec-86b1-c507254b65f3,text,Please select an option or type your question below
+null,e2e70176-fb43-43ec-86b1-c507254b65f3,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,9a4584e9-ab22-4f3c-b7e8-7e456d957fee,search,"How to Create an Instance Property.pdf" "BUILDING MAXIMO EAR FILES.pdf" "How to Modify a Global Property.pdf" 
+null,9a4584e9-ab22-4f3c-b7e8-7e456d957fee,suggestion,"Please transfer me to an agent: live chat" "Bot Profile : live chat" "Search TRM Document Library: live chat" "None of the above: live chat" 
+null,e554a34f-7ced-44a8-bd8e-f1694b2f3eec,text,Sorry for the trouble but we need this information to connect you with a best suited agent. 
+null,e554a34f-7ced-44a8-bd8e-f1694b2f3eec,text,To connect to an agent, we will need some of your information first. Please tell us your name.
+null,9a4584e9-ab22-4f3c-b7e8-7e456d957fee,text,Sorry for the trouble but we need this information to connect you with a best suited agent. 
+null,9a4584e9-ab22-4f3c-b7e8-7e456d957fee,text,To connect to an agent, we will need some of your information first. Please tell us your name.
+null,e554a34f-7ced-44a8-bd8e-f1694b2f3eec,text,Sorry for the trouble but we need this information to connect you with a best suited agent. 
+null,e554a34f-7ced-44a8-bd8e-f1694b2f3eec,text,To connect to an agent, we will need some of your information first. Please tell us your name.
+null,9a4584e9-ab22-4f3c-b7e8-7e456d957fee,text,Ok, please tell me your email.
+null,9a4584e9-ab22-4f3c-b7e8-7e456d957fee,text,Ok, please type in your query then wait for an agent.
+null,9a4584e9-ab22-4f3c-b7e8-7e456d957fee,suggestion,"Please transfer me to an agent: live chat" "Bot Profile : live chat" "Search TRM Document Library: live chat" "None of the above: live chat" 
+null,512d1476-2b2f-43ce-97d8-7fdb68322c02,suggestion,"Please transfer me to an agent: live chat" "Bot Profile : live chat" "Search TRM Document Library: live chat" "None of the above: live chat" 
+null,512d1476-2b2f-43ce-97d8-7fdb68322c02,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,512d1476-2b2f-43ce-97d8-7fdb68322c02,pause,1000
+null,512d1476-2b2f-43ce-97d8-7fdb68322c02,text,I'm here to assist you with your Maximo related questions
+null,512d1476-2b2f-43ce-97d8-7fdb68322c02,pause,1000
+null,512d1476-2b2f-43ce-97d8-7fdb68322c02,text,Please select an option or type your question below
+null,512d1476-2b2f-43ce-97d8-7fdb68322c02,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,512d1476-2b2f-43ce-97d8-7fdb68322c02,text,Sorry for the trouble but we need this information to connect you with a best suited agent. 
+null,512d1476-2b2f-43ce-97d8-7fdb68322c02,text,To connect to an agent, we will need some of your information first. Please tell us your name.
+null,512d1476-2b2f-43ce-97d8-7fdb68322c02,text,Sorry for the trouble but we need this information to connect you with a best suited agent. 
+null,512d1476-2b2f-43ce-97d8-7fdb68322c02,text,To connect to an agent, we will need some of your information first. Please tell us your name.
+null,512d1476-2b2f-43ce-97d8-7fdb68322c02,text,Sorry for the trouble but we need this information to connect you with a best suited agent. 
+null,512d1476-2b2f-43ce-97d8-7fdb68322c02,text,To connect to an agent, we will need some of your information first. Please tell us your name.
+null,512d1476-2b2f-43ce-97d8-7fdb68322c02,text,Sorry for the trouble but we need this information to connect you with a best suited agent. 
+null,512d1476-2b2f-43ce-97d8-7fdb68322c02,text,To connect to an agent, we will need some of your information first. Please tell us your name.
+null,e554a34f-7ced-44a8-bd8e-f1694b2f3eec,text,Hi there! How can I help you?
+null,e554a34f-7ced-44a8-bd8e-f1694b2f3eec,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,e554a34f-7ced-44a8-bd8e-f1694b2f3eec,pause,1000
+null,e554a34f-7ced-44a8-bd8e-f1694b2f3eec,text,I'm here to assist you with your Maximo related questions
+null,e554a34f-7ced-44a8-bd8e-f1694b2f3eec,pause,1000
+null,e554a34f-7ced-44a8-bd8e-f1694b2f3eec,text,Please select an option or type your question below
+null,e554a34f-7ced-44a8-bd8e-f1694b2f3eec,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,9a4584e9-ab22-4f3c-b7e8-7e456d957fee,image,NO TEXT FOR image
+null,9a4584e9-ab22-4f3c-b7e8-7e456d957fee,text,[Request agent →](https://teams.microsoft.com/_#/conversations/?ctx=chat)
+null,ad970728-c1bc-43e8-8053-97342185d983,text,IBM Maximo is an Enterprise Asset Management (EAM) solution (equipment, installations, buildings, etc) that provides purchasing, inventory, management of locations, service desk, and work planning. Maximo utilizes a series of applications, within modules, to setup and maintain an organization’s asset management plan. When using the Go To menu to navigate to these applications, the list in the drop-down menu is the list of modules. The menu expands to show the applications within each module. In some instances, there are categories of applications, so an additional list level is between the module name and application name.
+null,ad970728-c1bc-43e8-8053-97342185d983,option,"Key Terms" "Asset Management" "Item Master" "Work Order" "Preventive Maintenance" "Purchase Order" "Service Request" 
+null,ad970728-c1bc-43e8-8053-97342185d983,text,Preventive Maintenance (PM) is maintenance work performed on a regular schedule. The Preventive Maintenance application will help you plan and budget for regular maintenance work by planning the labor, material, service, and tool needs of your regularly scheduled maintenance and inspection Work Orders.  Work Management – A core business function to almost any industry. It is the method by which organizations maintain assets and manage labor resources. The Work Order Tracking application is an essential element of work management.  Asset management - track and manage asset and location data throughout the asset lifecycle. The Assets application is the central element of managing assets.  Work Management – A core business function to almost any industry. It is the method by which organizations maintain assets and manage labor resources. The Work Order Tracking application is an essential element of work management.  System - A method for organizing different types of locations and assets in the same database to allow for different asset tracking processes. For example, the HVAC system of vents, air conditioners, and heaters within a building is separate from the IT Networking system of cables, switches, routers, and computers within a building.  Location - A physical, geographic location where assets reside, or a virtual space, either from which assets can be transferred in and out. A location can also be a labor record, as in the person that the handheld or laptop is assigned to.  Asset - A physical piece of equipment that needs to be managed and maintained via the asset management process.  Item - A physical piece of equipment that needs to be managed via the inventory process. An inventory item may also be an asset. This is a rotating item.  Classification - A method for organizing assets with the same components or parts.  Specification - The specific values of the components or parts of an asset.
+null,e554a34f-7ced-44a8-bd8e-f1694b2f3eec,text,Hi there! How can I help you?
+null,9a4584e9-ab22-4f3c-b7e8-7e456d957fee,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,9a4584e9-ab22-4f3c-b7e8-7e456d957fee,pause,1000
+null,9a4584e9-ab22-4f3c-b7e8-7e456d957fee,text,I'm here to assist you with your Maximo related questions
+null,9a4584e9-ab22-4f3c-b7e8-7e456d957fee,pause,1000
+null,9a4584e9-ab22-4f3c-b7e8-7e456d957fee,text,Please select an option or type your question below
+null,9a4584e9-ab22-4f3c-b7e8-7e456d957fee,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,ad970728-c1bc-43e8-8053-97342185d983,suggestion,"WO Workplan Revise: work planning" "Work Order Options: work planning" "WO Create Workplan: work planning" "WO Associate Workplan: work planning" "None of the above: work planning" 
+null,ad970728-c1bc-43e8-8053-97342185d983,text, A work plan describes the labor, materials, tools, services, and tasks that are needed to complete a work order. In the Work Order Tracking application, select the work order for which you want to create a work plan. Fill in information on the Plans tab and then save the work plan. You can also create a "template" work plan in the Job Plan application. 1. In the Job Plans application, click New Job Plan and complete the fields. 2. On the Labor sub tab, Materials sub tab, Services sub tab, and the Tools sub tab, create a new row and complete the fields. After you click New Row on these tabs, the Organization field and Site field become read-only. 3. Optional: In the associated tabs, specify the work assets to associate with safety plans, the specifications for the job plan, details such as the risk assessments, and any regulations that are associated with the job plan. 4. Save the job plan. 5. After you specify the information, change the status of the job plan to Active so that the information for this job plan can be applied to any associated work orders. 
+null,ad970728-c1bc-43e8-8053-97342185d983,option,"Edit or Revise a Work Order" "Classify a Work Order" "Associate a Job Plan" "Revise a Job Plan" 
+null,ad970728-c1bc-43e8-8053-97342185d983,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,ad970728-c1bc-43e8-8053-97342185d983,pause,1000
+null,ad970728-c1bc-43e8-8053-97342185d983,text,I'm here to assist you with your Maximo related questions
+null,ad970728-c1bc-43e8-8053-97342185d983,pause,1000
+null,ad970728-c1bc-43e8-8053-97342185d983,text,Please select an option or type your question below
+null,ad970728-c1bc-43e8-8053-97342185d983,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,e554a34f-7ced-44a8-bd8e-f1694b2f3eec,text,IBM Maximo is an Enterprise Asset Management (EAM) solution (equipment, installations, buildings, etc) that provides purchasing, inventory, management of locations, service desk, and work planning. Maximo utilizes a series of applications, within modules, to setup and maintain an organization’s asset management plan. When using the Go To menu to navigate to these applications, the list in the drop-down menu is the list of modules. The menu expands to show the applications within each module. In some instances, there are categories of applications, so an additional list level is between the module name and application name.
+null,e554a34f-7ced-44a8-bd8e-f1694b2f3eec,option,"Key Terms" "Asset Management" "Item Master" "Work Order" "Preventive Maintenance" "Purchase Order" "Service Request" 
+null,e554a34f-7ced-44a8-bd8e-f1694b2f3eec,text,You use the Item Master application to define items that are stocked in your storerooms. You group these items in an item set that can be shared by the organizations that use the item set. When you create an item record, you define the main attributes of the item, such as commodity code and order and issue units. You can also specify items that you can use in its place and condition codes that you want applied to the item. 
+null,e554a34f-7ced-44a8-bd8e-f1694b2f3eec,option,"How do I create an item assembly structure?" 
+null,4ca17d19-2321-403d-8e8c-327cee340cd3,text,Ok, please tell me your email.
+null,4ca17d19-2321-403d-8e8c-327cee340cd3,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,4ca17d19-2321-403d-8e8c-327cee340cd3,pause,1000
+null,4ca17d19-2321-403d-8e8c-327cee340cd3,text,I'm here to assist you with your Maximo related questions
+null,4ca17d19-2321-403d-8e8c-327cee340cd3,pause,1000
+null,4ca17d19-2321-403d-8e8c-327cee340cd3,text,Please select an option or type your question below
+null,4ca17d19-2321-403d-8e8c-327cee340cd3,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,4ca17d19-2321-403d-8e8c-327cee340cd3,suggestion,"Please transfer me to an agent: live chat" "Bot Profile : live chat" "Search TRM Document Library: live chat" "None of the above: live chat" 
+null,4ca17d19-2321-403d-8e8c-327cee340cd3,text,Sorry for the trouble but we need this information to connect you with a best suited agent. 
+null,4ca17d19-2321-403d-8e8c-327cee340cd3,text,To connect to an agent, we will need some of your information first. Please tell us your name.
+null,9e9b2f93-86a3-4cdf-90a0-985648d1dc92,image,NO TEXT FOR image
+null,9e9b2f93-86a3-4cdf-90a0-985648d1dc92,text,[Request agent →](https://teams.microsoft.com/_#/conversations/?ctx=chat)
+null,4ca17d19-2321-403d-8e8c-327cee340cd3,image,NO TEXT FOR image
+null,4ca17d19-2321-403d-8e8c-327cee340cd3,text,[Request agent →](https://teams.microsoft.com/_#/conversations/?ctx=chat)
+null,4ca17d19-2321-403d-8e8c-327cee340cd3,text,Ok, please type in your query then wait for an agent.
+null,9e9b2f93-86a3-4cdf-90a0-985648d1dc92,text,Ok, please type in your query then wait for an agent.
+null,9e9b2f93-86a3-4cdf-90a0-985648d1dc92,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,9e9b2f93-86a3-4cdf-90a0-985648d1dc92,pause,1000
+null,9e9b2f93-86a3-4cdf-90a0-985648d1dc92,text,I'm here to assist you with your Maximo related questions
+null,9e9b2f93-86a3-4cdf-90a0-985648d1dc92,pause,1000
+null,9e9b2f93-86a3-4cdf-90a0-985648d1dc92,text,Please select an option or type your question below
+null,9e9b2f93-86a3-4cdf-90a0-985648d1dc92,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,9e9b2f93-86a3-4cdf-90a0-985648d1dc92,text,Sorry for the trouble but we need this information to connect you with a best suited agent. 
+null,9e9b2f93-86a3-4cdf-90a0-985648d1dc92,text,To connect to an agent, we will need some of your information first. Please tell us your name.
+null,9e9b2f93-86a3-4cdf-90a0-985648d1dc92,text,Ok, please tell me your email.
+null,eb00a844-ea9a-49a3-a127-58f89f4e5210,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,eb00a844-ea9a-49a3-a127-58f89f4e5210,pause,1000
+null,eb00a844-ea9a-49a3-a127-58f89f4e5210,text,I'm here to assist you with your Maximo related questions
+null,eb00a844-ea9a-49a3-a127-58f89f4e5210,pause,1000
+null,eb00a844-ea9a-49a3-a127-58f89f4e5210,text,Please select an option or type your question below
+null,eb00a844-ea9a-49a3-a127-58f89f4e5210,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,0506c531-edd7-49fa-ac0d-9bdd141761e0,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,0506c531-edd7-49fa-ac0d-9bdd141761e0,pause,1000
+null,0506c531-edd7-49fa-ac0d-9bdd141761e0,text,I'm here to assist you with your Maximo related questions
+null,0506c531-edd7-49fa-ac0d-9bdd141761e0,pause,1000
+null,0506c531-edd7-49fa-ac0d-9bdd141761e0,text,Please select an option or type your question below
+null,0506c531-edd7-49fa-ac0d-9bdd141761e0,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,0506c531-edd7-49fa-ac0d-9bdd141761e0,search,"Ad Hoc Report Types  .pdf" "Creating Ad Hoc Reports .pdf" "Ad hoc report Administration .pdf" 
+null,f6bd9a72-7c5d-45b7-bc0d-15f647f03df4,text,Ok, please type in your query then wait for an agent.
+null,f6bd9a72-7c5d-45b7-bc0d-15f647f03df4,text,Ok, please tell me your email.
+null,f6bd9a72-7c5d-45b7-bc0d-15f647f03df4,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,f6bd9a72-7c5d-45b7-bc0d-15f647f03df4,pause,1000
+null,f6bd9a72-7c5d-45b7-bc0d-15f647f03df4,text,I'm here to assist you with your Maximo related questions
+null,f6bd9a72-7c5d-45b7-bc0d-15f647f03df4,pause,1000
+null,f6bd9a72-7c5d-45b7-bc0d-15f647f03df4,text,Please select an option or type your question below
+null,f6bd9a72-7c5d-45b7-bc0d-15f647f03df4,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,f6bd9a72-7c5d-45b7-bc0d-15f647f03df4,image,NO TEXT FOR image
+null,f6bd9a72-7c5d-45b7-bc0d-15f647f03df4,text,[Request agent →](https://teams.microsoft.com/_#/conversations/?ctx=chat)
+null,f6bd9a72-7c5d-45b7-bc0d-15f647f03df4,text,Sorry for the trouble but we need this information to connect you with a best suited agent. 
+null,f6bd9a72-7c5d-45b7-bc0d-15f647f03df4,text,To connect to an agent, we will need some of your information first. Please tell us your name.
+null,1582b536-f0e9-4ae1-b87c-bbae074ddb63,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,1582b536-f0e9-4ae1-b87c-bbae074ddb63,pause,1000
+null,1582b536-f0e9-4ae1-b87c-bbae074ddb63,text,I'm here to assist you with your Maximo related questions
+null,1582b536-f0e9-4ae1-b87c-bbae074ddb63,pause,1000
+null,1582b536-f0e9-4ae1-b87c-bbae074ddb63,text,Please select an option or type your question below
+null,1582b536-f0e9-4ae1-b87c-bbae074ddb63,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,1582b536-f0e9-4ae1-b87c-bbae074ddb63,search,"How to Create and Run a Quick Ad Hoc Report.pdf" "Ad Hoc Report Types  .pdf" "Printing Ad Hoc Reports .pdf" 
+null,fb517259-5c95-48df-bf60-1ee865da8315,text,Ok, please tell me your email.
+null,fb517259-5c95-48df-bf60-1ee865da8315,search,"How to Create and Run a Quick Ad Hoc Report.pdf" "How to_ Export an AD HOC to Eclipse BIRT Designer.pdf" "Deleting Ad Hoc Reports .pdf" 
+null,fb517259-5c95-48df-bf60-1ee865da8315,text,Ok, please type in your query then wait for an agent.
+null,fb517259-5c95-48df-bf60-1ee865da8315,text,Sorry for the trouble but we need this information to connect you with a best suited agent. 
+null,fb517259-5c95-48df-bf60-1ee865da8315,text,To connect to an agent, we will need some of your information first. Please tell us your name.
+null,fb517259-5c95-48df-bf60-1ee865da8315,text,Sorry for the trouble but we need this information to connect you with a best suited agent. 
+null,fb517259-5c95-48df-bf60-1ee865da8315,text,To connect to an agent, we will need some of your information first. Please tell us your name.
+null,fb517259-5c95-48df-bf60-1ee865da8315,image,NO TEXT FOR image
+null,fb517259-5c95-48df-bf60-1ee865da8315,text,[Request agent →](https://teams.microsoft.com/_#/conversations/?ctx=chat)
+null,fb517259-5c95-48df-bf60-1ee865da8315,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,fb517259-5c95-48df-bf60-1ee865da8315,pause,1000
+null,fb517259-5c95-48df-bf60-1ee865da8315,text,I'm here to assist you with your Maximo related questions
+null,fb517259-5c95-48df-bf60-1ee865da8315,pause,1000
+null,fb517259-5c95-48df-bf60-1ee865da8315,text,Please select an option or type your question below
+null,fb517259-5c95-48df-bf60-1ee865da8315,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,5771e685-26b0-4dc3-a67d-18175ef68305,image,NO TEXT FOR image
+null,5771e685-26b0-4dc3-a67d-18175ef68305,text,[Request agent →](https://teams.microsoft.com/_#/conversations/?ctx=chat)
+null,5771e685-26b0-4dc3-a67d-18175ef68305,text,Sorry for the trouble but we need this information to connect you with a best suited agent. 
+null,5771e685-26b0-4dc3-a67d-18175ef68305,text,To connect to an agent, we will need some of your information first. Please tell us your name.
+null,5771e685-26b0-4dc3-a67d-18175ef68305,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,5771e685-26b0-4dc3-a67d-18175ef68305,pause,1000
+null,5771e685-26b0-4dc3-a67d-18175ef68305,text,I'm here to assist you with your Maximo related questions
+null,5771e685-26b0-4dc3-a67d-18175ef68305,pause,1000
+null,5771e685-26b0-4dc3-a67d-18175ef68305,text,Please select an option or type your question below
+null,5771e685-26b0-4dc3-a67d-18175ef68305,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,5771e685-26b0-4dc3-a67d-18175ef68305,suggestion,"Please transfer me to an agent: live chat please" "Search TRM Document Library: live chat please" "None of the above: live chat please" 
+null,5771e685-26b0-4dc3-a67d-18175ef68305,text,Ok, please tell me your email.
+null,5771e685-26b0-4dc3-a67d-18175ef68305,text,Ok, please type in your query then wait for an agent.
+null,a04cce7b-1d3c-4383-a9d8-74d3ca39ca9b,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,a04cce7b-1d3c-4383-a9d8-74d3ca39ca9b,pause,1000
+null,a04cce7b-1d3c-4383-a9d8-74d3ca39ca9b,text,I'm here to assist you with your Maximo related questions
+null,a04cce7b-1d3c-4383-a9d8-74d3ca39ca9b,pause,1000
+null,a04cce7b-1d3c-4383-a9d8-74d3ca39ca9b,text,Please select an option or type your question below
+null,a04cce7b-1d3c-4383-a9d8-74d3ca39ca9b,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,a04cce7b-1d3c-4383-a9d8-74d3ca39ca9b,search,"How to Create and Run a Quick Ad Hoc Report.pdf" "Ad Hoc Report Types  .pdf" "Creating Ad Hoc Reports .pdf" 
+null,00ebe647-059f-4413-9f5a-e6b7e70b76e3,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,00ebe647-059f-4413-9f5a-e6b7e70b76e3,pause,1000
+null,00ebe647-059f-4413-9f5a-e6b7e70b76e3,text,I'm here to assist you with your Maximo related questions
+null,00ebe647-059f-4413-9f5a-e6b7e70b76e3,pause,1000
+null,00ebe647-059f-4413-9f5a-e6b7e70b76e3,text,Please select an option or type your question below
+null,00ebe647-059f-4413-9f5a-e6b7e70b76e3,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,00ebe647-059f-4413-9f5a-e6b7e70b76e3,text,You use the Failure Codes application to build and to display failure hierarchies. Hierarchies help you construct accurate histories of the failures that affect your assets and operating locations. 
+null,00ebe647-059f-4413-9f5a-e6b7e70b76e3,option,"Failure Code Hierarchy" "Failure Code Duplicate" 
+null,00ebe647-059f-4413-9f5a-e6b7e70b76e3,suggestion,"Failure Code Application: Failure Code Hierarchy" "Failure Code Hierarchy: Failure Code Hierarchy" "Failure Code Duplicate: Failure Code Hierarchy" "How can I see all parent and child item assembly structures?: Failure Code Hierarchy" "None of the above: Failure Code Hierarchy" 
+null,00ebe647-059f-4413-9f5a-e6b7e70b76e3,search,"How to_ Add Failure Reporting to a Work Order.pdf" "Organizations - How to add an Orgainization - How do I create an Org.pdf" "Systems - a group of locations that function together.pdf" 
+null,00ebe647-059f-4413-9f5a-e6b7e70b76e3,text,You use the Failure Codes application to build and to display failure hierarchies. Hierarchies help you construct accurate histories of the failures that affect your assets and operating locations. 
+null,00ebe647-059f-4413-9f5a-e6b7e70b76e3,option,"Failure Code Hierarchy" "Failure Code Duplicate" 
+null,dfb589f2-023f-4f29-98bf-6f72c873c4c6,text,To manage users, you can create records that contain user names, passwords, and security profiles. These records determine which applications, options, and data that user can access. A user record must have a corresponding person record. You create person records either in the People application or in the Personal section in the Users application. In the User application, click New User. Optional: In the User field, type a unique user identifier. If you use autonumbering, the User field is already populated. Optional: If no matching person record is found, select one of the following options to create a person record: To create a person record based on information in the Personal section of the user record, click Yes. To select an existing person record, click No. In the Person field, select the person record. To create a person record, click No. In the Person field, select Detail Menu and then select Go to People. Optional: In the User Name field, type a value. The user name defaults to the ID name in the User field. This value is used to log in. You can change the user name to an employee number or email address. Click Set Password to define a password. Optional: Specify additional personal, user setting and general ledger account information.
+null,dfb589f2-023f-4f29-98bf-6f72c873c4c6,text,To manage users, you can create records that contain user names, passwords, and security profiles. These records determine which applications, options, and data that user can access. A user record must have a corresponding person record. You create person records either in the People application or in the Personal section in the Users application. In the User application, click New User. Optional: In the User field, type a unique user identifier. If you use autonumbering, the User field is already populated. Optional: If no matching person record is found, select one of the following options to create a person record: To create a person record based on information in the Personal section of the user record, click Yes. To select an existing person record, click No. In the Person field, select the person record. To create a person record, click No. In the Person field, select Detail Menu and then select Go to People. Optional: In the User Name field, type a value. The user name defaults to the ID name in the User field. This value is used to log in. You can change the user name to an employee number or email address. Click Set Password to define a password. Optional: Specify additional personal, user setting and general ledger account information.
+null,dfb589f2-023f-4f29-98bf-6f72c873c4c6,suggestion,"User Registration: user creation" "Create a New User: user creation" "User Access: user creation" "Search TRM Document Library: user creation" "User Name: user creation" "None of the above: user creation" 
+null,dfb589f2-023f-4f29-98bf-6f72c873c4c6,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,dfb589f2-023f-4f29-98bf-6f72c873c4c6,pause,1000
+null,dfb589f2-023f-4f29-98bf-6f72c873c4c6,text,I'm here to assist you with your Maximo related questions
+null,dfb589f2-023f-4f29-98bf-6f72c873c4c6,pause,1000
+null,dfb589f2-023f-4f29-98bf-6f72c873c4c6,text,Please select an option or type your question below
+null,dfb589f2-023f-4f29-98bf-6f72c873c4c6,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,dfb589f2-023f-4f29-98bf-6f72c873c4c6,search,"Purchase Requisitions Application Overview.pdf" "Creation of Data Sheets .pdf" "MaxAssist Page Guides - Rules Manager.pdf" 
+null,c6a64475-e8ad-4dea-ba31-3b69fc944313,text,Sorry for the trouble but we need this information to connect you with a best suited agent. 
+null,c6a64475-e8ad-4dea-ba31-3b69fc944313,text,To connect to an agent, we will need some of your information first. Please tell us your name.
+null,c6a64475-e8ad-4dea-ba31-3b69fc944313,text,Ok, please tell me your email.
+null,c6a64475-e8ad-4dea-ba31-3b69fc944313,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,c6a64475-e8ad-4dea-ba31-3b69fc944313,pause,1000
+null,c6a64475-e8ad-4dea-ba31-3b69fc944313,text,I'm here to assist you with your Maximo related questions
+null,c6a64475-e8ad-4dea-ba31-3b69fc944313,pause,1000
+null,c6a64475-e8ad-4dea-ba31-3b69fc944313,text,Please select an option or type your question below
+null,c6a64475-e8ad-4dea-ba31-3b69fc944313,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,c6a64475-e8ad-4dea-ba31-3b69fc944313,text,Ok, please type in your query then wait for an agent.
+null,c6a64475-e8ad-4dea-ba31-3b69fc944313,image,NO TEXT FOR image
+null,c6a64475-e8ad-4dea-ba31-3b69fc944313,text,[Request agent →](https://teams.microsoft.com/_#/conversations/?ctx=chat)
+null,ae33ed3c-de68-487b-ac02-1a191a5f70e0,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,ae33ed3c-de68-487b-ac02-1a191a5f70e0,pause,1000
+null,ae33ed3c-de68-487b-ac02-1a191a5f70e0,text,I'm here to assist you with your Maximo related questions
+null,ae33ed3c-de68-487b-ac02-1a191a5f70e0,pause,1000
+null,ae33ed3c-de68-487b-ac02-1a191a5f70e0,text,Please select an option or type your question below
+null,ae33ed3c-de68-487b-ac02-1a191a5f70e0,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,ae33ed3c-de68-487b-ac02-1a191a5f70e0,search,"Ad Hoc Report Types  .pdf" "Creating Ad Hoc Reports .pdf" "Ad hoc report Administration .pdf" 
+null,229bd419-832a-4bbc-9ce4-5078a6e2c49b,text,Ok, please type in your query then wait for an agent.
+null,229bd419-832a-4bbc-9ce4-5078a6e2c49b,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,229bd419-832a-4bbc-9ce4-5078a6e2c49b,pause,1000
+null,229bd419-832a-4bbc-9ce4-5078a6e2c49b,text,I'm here to assist you with your Maximo related questions
+null,229bd419-832a-4bbc-9ce4-5078a6e2c49b,pause,1000
+null,229bd419-832a-4bbc-9ce4-5078a6e2c49b,text,Please select an option or type your question below
+null,229bd419-832a-4bbc-9ce4-5078a6e2c49b,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,229bd419-832a-4bbc-9ce4-5078a6e2c49b,text,Ok, please tell me your email.
+null,229bd419-832a-4bbc-9ce4-5078a6e2c49b,suggestion,"Please transfer me to an agent: live chat" "Bot Profile : live chat" "Search TRM Document Library: live chat" "None of the above: live chat" 
+null,229bd419-832a-4bbc-9ce4-5078a6e2c49b,text,Sorry for the trouble but we need this information to connect you with a best suited agent. 
+null,229bd419-832a-4bbc-9ce4-5078a6e2c49b,text,To connect to an agent, we will need some of your information first. Please tell us your name.
+null,229bd419-832a-4bbc-9ce4-5078a6e2c49b,image,NO TEXT FOR image
+null,229bd419-832a-4bbc-9ce4-5078a6e2c49b,text,[Request agent →](https://teams.microsoft.com/_#/conversations/?ctx=chat)
+null,229bd419-832a-4bbc-9ce4-5078a6e2c49b,text,Sorry for the trouble but we need this information to connect you with a best suited agent. 
+null,229bd419-832a-4bbc-9ce4-5078a6e2c49b,text,To connect to an agent, we will need some of your information first. Please tell us your name.
+null,71e0ac18-9432-41a9-9cd4-92ca07138471,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,71e0ac18-9432-41a9-9cd4-92ca07138471,pause,1000
+null,71e0ac18-9432-41a9-9cd4-92ca07138471,text,I'm here to assist you with your Maximo related questions
+null,71e0ac18-9432-41a9-9cd4-92ca07138471,pause,1000
+null,71e0ac18-9432-41a9-9cd4-92ca07138471,text,Please select an option or type your question below
+null,71e0ac18-9432-41a9-9cd4-92ca07138471,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,86b778ba-7b22-45a7-a1d3-862e9c2ea516,text,The Failure Reporting tab is used to record failures in selected assets, the cause of the Failure, and the Corrective actions. This information is used mostly in Corrective Maintenance and Unplanned Maintenance Work Orders.
+null,86b778ba-7b22-45a7-a1d3-862e9c2ea516,option,"Failure Code Application" "Failure Code Hierarchy" 
+null,86b778ba-7b22-45a7-a1d3-862e9c2ea516,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,86b778ba-7b22-45a7-a1d3-862e9c2ea516,pause,1000
+null,86b778ba-7b22-45a7-a1d3-862e9c2ea516,text,I'm here to assist you with your Maximo related questions
+null,86b778ba-7b22-45a7-a1d3-862e9c2ea516,pause,1000
+null,86b778ba-7b22-45a7-a1d3-862e9c2ea516,text,Please select an option or type your question below
+null,86b778ba-7b22-45a7-a1d3-862e9c2ea516,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,1c8fd4ca-65cc-4b6a-ad98-e30a36de2a6e,text,A failure hierarchy is a tree type of structure that shows relationships between identified problems, causes, and remedies for asset failures and for operating location failures.  To build a failure hierarchy: 1) From Go To menu choose: Asset >> Failure Codes 2) Create the first level of the hierarchy (add a new Failure Class) 3) Specify the Failure Class name and description. 4) Add the Problem (second level of the hierarchy). 5) For each Problem, add the possible Causes (third level) by selecting the Problem, in the Causes section click New Row and select a Cause. 6) For each Cause, add the possible Remedies by selecting the Problem, the Cause and in the Remedies section click New Row and select a Remedy.
+null,1c8fd4ca-65cc-4b6a-ad98-e30a36de2a6e,option,"Failure Code Duplicate" 
+null,1d0a1dee-215f-45c7-91dd-528e3b1333f5,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,1d0a1dee-215f-45c7-91dd-528e3b1333f5,pause,1000
+null,1d0a1dee-215f-45c7-91dd-528e3b1333f5,text,I'm here to assist you with your Maximo related questions
+null,1d0a1dee-215f-45c7-91dd-528e3b1333f5,pause,1000
+null,1d0a1dee-215f-45c7-91dd-528e3b1333f5,text,Please select an option or type your question below
+null,1d0a1dee-215f-45c7-91dd-528e3b1333f5,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,1d0a1dee-215f-45c7-91dd-528e3b1333f5,suggestion,"Search TRM Document Library: failure code reporting" "Failure Code Application: failure code reporting" "None of the above: failure code reporting" 
+null,1c8fd4ca-65cc-4b6a-ad98-e30a36de2a6e,text,You use the Failure Codes application to build and to display failure hierarchies. Hierarchies help you construct accurate histories of the failures that affect your assets and operating locations. 
+null,1c8fd4ca-65cc-4b6a-ad98-e30a36de2a6e,option,"Failure Code Hierarchy" "Failure Code Duplicate" 
+null,1c8fd4ca-65cc-4b6a-ad98-e30a36de2a6e,suggestion,"Failure Code Hierarchy: Failure Code Hierarchy" "Failure Code Application: Failure Code Hierarchy" "Failure Code Duplicate: Failure Code Hierarchy" "How can I see all parent and child item assembly structures?: Failure Code Hierarchy" "None of the above: Failure Code Hierarchy" 
+null,1c8fd4ca-65cc-4b6a-ad98-e30a36de2a6e,suggestion,"Search TRM Document Library: failure code tab" "Failure Code Application: failure code tab" "None of the above: failure code tab" 
+null,1c8fd4ca-65cc-4b6a-ad98-e30a36de2a6e,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,1c8fd4ca-65cc-4b6a-ad98-e30a36de2a6e,pause,1000
+null,1c8fd4ca-65cc-4b6a-ad98-e30a36de2a6e,text,I'm here to assist you with your Maximo related questions
+null,1c8fd4ca-65cc-4b6a-ad98-e30a36de2a6e,pause,1000
+null,1c8fd4ca-65cc-4b6a-ad98-e30a36de2a6e,text,Please select an option or type your question below
+null,1c8fd4ca-65cc-4b6a-ad98-e30a36de2a6e,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,1c8fd4ca-65cc-4b6a-ad98-e30a36de2a6e,search,"How to_ Add Failure Reporting to a Work Order.pdf" "WORK ORDER TRACKING APPLICATION OVERVIEW.pdf" "Investigations Application Overview.pdf" 
+null,1d0a1dee-215f-45c7-91dd-528e3b1333f5,text,You use the Failure Codes application to build and to display failure hierarchies. Hierarchies help you construct accurate histories of the failures that affect your assets and operating locations. 
+null,1d0a1dee-215f-45c7-91dd-528e3b1333f5,option,"Failure Code Hierarchy" "Failure Code Duplicate" 
+null,1d0a1dee-215f-45c7-91dd-528e3b1333f5,suggestion,"Search TRM Document Library: Failure code reporting" "Failure Code Application: Failure code reporting" "None of the above: Failure code reporting" 
+null,1d0a1dee-215f-45c7-91dd-528e3b1333f5,search,"How to_ Add Failure Reporting to a Work Order.pdf" "WORK ORDER TRACKING APPLICATION OVERVIEW.pdf" "Investigations Application Overview.pdf" 
+null,1d0a1dee-215f-45c7-91dd-528e3b1333f5,text,IBM Maximo is an Enterprise Asset Management (EAM) solution (equipment, installations, buildings, etc) that provides purchasing, inventory, management of locations, service desk, and work planning. Maximo utilizes a series of applications, within modules, to setup and maintain an organization’s asset management plan. When using the Go To menu to navigate to these applications, the list in the drop-down menu is the list of modules. The menu expands to show the applications within each module. In some instances, there are categories of applications, so an additional list level is between the module name and application name.
+null,1d0a1dee-215f-45c7-91dd-528e3b1333f5,option,"Key Terms" "Asset Management" "Item Master" "Work Order" "Preventive Maintenance" "Purchase Order" "Service Request" 
+null,1d0a1dee-215f-45c7-91dd-528e3b1333f5,text,Preventive Maintenance (PM) is maintenance work performed on a regular schedule. The Preventive Maintenance application will help you plan and budget for regular maintenance work by planning the labor, material, service, and tool needs of your regularly scheduled maintenance and inspection Work Orders.  Work Management – A core business function to almost any industry. It is the method by which organizations maintain assets and manage labor resources. The Work Order Tracking application is an essential element of work management.  Asset management - track and manage asset and location data throughout the asset lifecycle. The Assets application is the central element of managing assets.  Work Management – A core business function to almost any industry. It is the method by which organizations maintain assets and manage labor resources. The Work Order Tracking application is an essential element of work management.  System - A method for organizing different types of locations and assets in the same database to allow for different asset tracking processes. For example, the HVAC system of vents, air conditioners, and heaters within a building is separate from the IT Networking system of cables, switches, routers, and computers within a building.  Location - A physical, geographic location where assets reside, or a virtual space, either from which assets can be transferred in and out. A location can also be a labor record, as in the person that the handheld or laptop is assigned to.  Asset - A physical piece of equipment that needs to be managed and maintained via the asset management process.  Item - A physical piece of equipment that needs to be managed via the inventory process. An inventory item may also be an asset. This is a rotating item.  Classification - A method for organizing assets with the same components or parts.  Specification - The specific values of the components or parts of an asset.
+null,e628eadf-f9ab-4156-828b-549af86e359c,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,e628eadf-f9ab-4156-828b-549af86e359c,pause,1000
+null,e628eadf-f9ab-4156-828b-549af86e359c,text,I'm here to assist you with your Maximo related questions
+null,e628eadf-f9ab-4156-828b-549af86e359c,pause,1000
+null,e628eadf-f9ab-4156-828b-549af86e359c,text,Please select an option or type your question below
+null,e628eadf-f9ab-4156-828b-549af86e359c,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,e628eadf-f9ab-4156-828b-549af86e359c,search,"How to Create and Run a Quick Ad Hoc Report.pdf" "How to_ Export an AD HOC to Eclipse BIRT Designer.pdf" "Deleting Ad Hoc Reports .pdf" 
+null,e628eadf-f9ab-4156-828b-549af86e359c,search,"App Developer and Existing Rules - Rules Manager.pdf" "Explaining the App Editor - Rules Manager.pdf" "Rule not firing - Rules Manager.pdf" 
+null,a43fe611-0357-4ca5-98ea-2767cf20dc06,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,a43fe611-0357-4ca5-98ea-2767cf20dc06,pause,1000
+null,a43fe611-0357-4ca5-98ea-2767cf20dc06,text,I'm here to assist you with your Maximo related questions
+null,a43fe611-0357-4ca5-98ea-2767cf20dc06,pause,1000
+null,a43fe611-0357-4ca5-98ea-2767cf20dc06,text,Please select an option or type your question below
+null,a43fe611-0357-4ca5-98ea-2767cf20dc06,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,8fc2357d-fe7c-4654-bb55-218796e80817,text,Ok, please type in your query then wait for an agent.
+null,8fc2357d-fe7c-4654-bb55-218796e80817,text,Sorry for the trouble but we need this information to connect you with a best suited agent. 
+null,8fc2357d-fe7c-4654-bb55-218796e80817,text,To connect to an agent, we will need some of your information first. Please tell us your name.
+null,8fc2357d-fe7c-4654-bb55-218796e80817,text,Ok, please tell me your email.
+null,8fc2357d-fe7c-4654-bb55-218796e80817,text,Sorry for the trouble but we need this information to connect you with a best suited agent. 
+null,8fc2357d-fe7c-4654-bb55-218796e80817,text,To connect to an agent, we will need some of your information first. Please tell us your name.
+null,8fc2357d-fe7c-4654-bb55-218796e80817,image,NO TEXT FOR image
+null,8fc2357d-fe7c-4654-bb55-218796e80817,text,[Request agent →](https://teams.microsoft.com/_#/conversations/?ctx=chat)
+null,d654f54c-206e-4bc9-87ca-2c7a832755ed,suggestion,"Please transfer me to an agent: Live Chat" "Bot Profile : Live Chat" "Search TRM Document Library: Live Chat" "None of the above: Live Chat" 
+null,d654f54c-206e-4bc9-87ca-2c7a832755ed,search,"How to Create and Run a Quick Ad Hoc Report.pdf" "Creating Ad Hoc Reports .pdf" "Editing Ad Hoc Reports .pdf" 
+null,d654f54c-206e-4bc9-87ca-2c7a832755ed,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,d654f54c-206e-4bc9-87ca-2c7a832755ed,pause,1000
+null,d654f54c-206e-4bc9-87ca-2c7a832755ed,text,I'm here to assist you with your Maximo related questions
+null,d654f54c-206e-4bc9-87ca-2c7a832755ed,pause,1000
+null,d654f54c-206e-4bc9-87ca-2c7a832755ed,text,Please select an option or type your question below
+null,d654f54c-206e-4bc9-87ca-2c7a832755ed,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,d654f54c-206e-4bc9-87ca-2c7a832755ed,search,"Asset Record Statuses .pdf" "How to Build an Asset Description Using a Classification Structure.pdf" "Asset Templates .pdf" 
+null,d654f54c-206e-4bc9-87ca-2c7a832755ed,suggestion,"Create an Asset: decommission an asset" "Modify an Asset: decommission an asset" "None of the above: decommission an asset" 
+null,d654f54c-206e-4bc9-87ca-2c7a832755ed,text,Sorry for the trouble but we need this information to connect you with a best suited agent. 
+null,d654f54c-206e-4bc9-87ca-2c7a832755ed,text,To connect to an agent, we will need some of your information first. Please tell us your name.
+null,d654f54c-206e-4bc9-87ca-2c7a832755ed,text,Ok, please tell me your email.
+null,d654f54c-206e-4bc9-87ca-2c7a832755ed,image,NO TEXT FOR image
+null,d654f54c-206e-4bc9-87ca-2c7a832755ed,text,[Request agent →](https://teams.microsoft.com/_#/conversations/?ctx=chat)
+null,d654f54c-206e-4bc9-87ca-2c7a832755ed,text,Ok, please type in your query then wait for an agent.
+null,d654f54c-206e-4bc9-87ca-2c7a832755ed,text,From the Assets application, display the asset whose status you want to change.  Select the Change Status action.  In the New Status field, select a status from the drop-down list, then click OK.
+null,a2fb7a14-b7fa-4d9d-a271-2526b20c2d5c,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,a2fb7a14-b7fa-4d9d-a271-2526b20c2d5c,pause,1000
+null,a2fb7a14-b7fa-4d9d-a271-2526b20c2d5c,text,I'm here to assist you with your Maximo related questions
+null,a2fb7a14-b7fa-4d9d-a271-2526b20c2d5c,pause,1000
+null,a2fb7a14-b7fa-4d9d-a271-2526b20c2d5c,text,Please select an option or type your question below
+null,a2fb7a14-b7fa-4d9d-a271-2526b20c2d5c,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,cc511018-8cc0-4caf-8152-f4c4bc83b17d,search,"The Report Administration Application .pdf" "How to Create and Run a Quick Ad Hoc Report.pdf" "Ad Hoc Report Types  .pdf" 
+null,a2fb7a14-b7fa-4d9d-a271-2526b20c2d5c,text,I can help you with these for Service Request:
+null,a2fb7a14-b7fa-4d9d-a271-2526b20c2d5c,option,"Create Service Request" "Edit/Revise Service Request" "Search Service Request" "Service Request Report" "Service Request Definition" 
+null,a2fb7a14-b7fa-4d9d-a271-2526b20c2d5c,text,In the Service Requests application, choose the New Service Request New service request icon action. In the User Information section, the Service Request number is automatically filled. This is the only information required to create a service request record. The more information you enter, the more efficient the processing of the service request is. The Source field is also automatically filled with, for example, PHONECALL. You can modify or disable the default value for this field by editing the dialog definition or behavior using the Application Designer application. In the Affected Person field, select the person who is affected by the service request. Once selected the Name, Phone and E-mail fields is automatically filled with information from their personal record, if it exists. In the Service Request Details section, enter a description in the Summary field. Enter additional information, in the Details field. In the Reported Priority field, select a number that represents the impact. The choices are critical, high, medium, low, and planning. In the Common Requests field, select the service request type. The service request type selected might include associated summary information in the template. Click Submit Now to save the service request record. The system creates a service request record and, by default, automatically sends a communication to the Reported By and Affected Person users, notifying them that the new record has been created.. You can add details for the service request record now or update them later.
+null,a2fb7a14-b7fa-4d9d-a271-2526b20c2d5c,option,"Edit or Update a Service Request" "Search for a Service Request" "Service Request Report" 
+null,a2fb7a14-b7fa-4d9d-a271-2526b20c2d5c,suggestion,"Service Request Edit: Service Request Edit" "Service Request: Service Request Edit" "None of the above: Service Request Edit" 
+null,a2fb7a14-b7fa-4d9d-a271-2526b20c2d5c,text,I can help you with these for Service Request:
+null,a2fb7a14-b7fa-4d9d-a271-2526b20c2d5c,option,"Create Service Request" "Edit/Revise Service Request" "Search Service Request" "Service Request Report" "Service Request Definition" 
+null,cc511018-8cc0-4caf-8152-f4c4bc83b17d,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,cc511018-8cc0-4caf-8152-f4c4bc83b17d,pause,1000
+null,cc511018-8cc0-4caf-8152-f4c4bc83b17d,text,I'm here to assist you with your Maximo related questions
+null,cc511018-8cc0-4caf-8152-f4c4bc83b17d,pause,1000
+null,cc511018-8cc0-4caf-8152-f4c4bc83b17d,text,Please select an option or type your question below
+null,cc511018-8cc0-4caf-8152-f4c4bc83b17d,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,cc511018-8cc0-4caf-8152-f4c4bc83b17d,text,What do you like me to help you with?
+null,cc511018-8cc0-4caf-8152-f4c4bc83b17d,option,"User Registration" "Create a new user" "I can't login" 
+null,cc511018-8cc0-4caf-8152-f4c4bc83b17d,text,To manage users, you can create records that contain user names, passwords, and security profiles. These records determine which applications, options, and data that user can access. A user record must have a corresponding person record. You create person records either in the People application or in the Personal section in the Users application. In the User application, click New User. Optional: In the User field, type a unique user identifier. If you use autonumbering, the User field is already populated. Optional: If no matching person record is found, select one of the following options to create a person record: To create a person record based on information in the Personal section of the user record, click Yes. To select an existing person record, click No. In the Person field, select the person record. To create a person record, click No. In the Person field, select Detail Menu and then select Go to People. Optional: In the User Name field, type a value. The user name defaults to the ID name in the User field. This value is used to log in. You can change the user name to an employee number or email address. Click Set Password to define a password. Optional: Specify additional personal, user setting and general ledger account information.
+null,a2fb7a14-b7fa-4d9d-a271-2526b20c2d5c,text,1. Navigate to the "Service Desk" under Go To Application  2. Click on "Service Request"  3. In the left side bar under "More Actions" click on "Run Reports" 
+null,46958a93-ca65-42e9-b50e-7d938cb9c2bf,search,"ValueList Editors - Rules Manager.pdf" "Scheduling Ad Hoc Reports .pdf" "Exporting Ad Hoc Report Data .pdf" 
+null,46958a93-ca65-42e9-b50e-7d938cb9c2bf,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,46958a93-ca65-42e9-b50e-7d938cb9c2bf,pause,1000
+null,46958a93-ca65-42e9-b50e-7d938cb9c2bf,text,I'm here to assist you with your Maximo related questions
+null,46958a93-ca65-42e9-b50e-7d938cb9c2bf,pause,1000
+null,46958a93-ca65-42e9-b50e-7d938cb9c2bf,text,Please select an option or type your question below
+null,46958a93-ca65-42e9-b50e-7d938cb9c2bf,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,46958a93-ca65-42e9-b50e-7d938cb9c2bf,search,"Product Report Configuration for BIRT.pdf" "System Requirements - Rules Manager.pdf" "Promoting Rules - Rules Manager.pdf" 
+null,46958a93-ca65-42e9-b50e-7d938cb9c2bf,suggestion,"Wildcard Search: Search TRM Document Library" "Search Options and Methods: Search TRM Document Library" "Search TRM Document Library: Search TRM Document Library" "None of the above: Search TRM Document Library" 
+null,46958a93-ca65-42e9-b50e-7d938cb9c2bf,text,Work Order Tracking Procedure 1-In the Work Order Tracking application, click the New Work Order icon in the toolbar. 2-Specify whether you are creating the work order for a location, asset, configuration item, or general ledger account. If a selected location has a single associated asset, the asset value is copied to the record. If a selected asset is a linear asset, additional fields display. 3-Optional: Specify a type for the work order and the priority of the work order for scheduling purposes. 4-Specify any additional schedule information and responsibility information. You can specify a job plan, safety plan, failure class, scheduling information, and planned labor, materials, tools, and services. If you specify a job plan or job task that is related to an inspection form, that inspection form is automatically added to the Inspection Form field. 5-Save the work order. Note: An asterisk (*) indicates a required field  Several applications in Maximo can be used to create work orders depending on business process and permissions. - Work Order Tracking - Use to create and report on high-volume or complex work orders. - Changes - Use to create work orders related to service desk tickets. - Condition Monitoring - Use to generate work orders to correct problem conditions found during monitoring procedures. - Incidents - Use to create work orders related to service desk tickets - Preventive Maintenance - Use to generate scheduled maintenance work orders. - Problems - Use to create work orders related to service desk tickets. - Quick Reporting - Use to create work orders and report actual work done for simple jobs, unplanned work, or work not performed by the maintenance department. - Releases - Use to create work orders related to service desk tickets. - Service Requests - Use to create work orders related to service desk tickets.
+null,46958a93-ca65-42e9-b50e-7d938cb9c2bf,option,"Edit a Work Order" "Service Request" "Preventive Maintenance" 
+null,46958a93-ca65-42e9-b50e-7d938cb9c2bf,text,In the Preventive Maintenance application, on the toolbar, click New PM. If the PM field is empty, specify a value. Enter a description. Click Long Description if you need more space. In the Location, Asset, or GL Account fields, specify a value. The asset or location is the entity for which you intend to schedule work - you must enter a value in one of these fields. If you have specified a GL account, when work orders are generated from the PM record, the system takes any unspecified segments from the associated location and or asset. Optional: Build a PM for the assets on a route. In the Route field, specify a value. Fill the remaining required fields as appropriate. Select the Use this PM to Trigger PM Hierarchy check box if you want to generate work orders for the entire hierarchy when this PM becomes due. If you want to generate a work order for only this PM when it becomes due, and not the other PMs in the hierarchy, clear the check box.  Select the Child Work Orders and Tasks Will Inherit Status Changes check box if you want work orders generated from this PM to inherit status changes from a parent work order.  Click the Frequency tab. In the Work Order Generation Information section, select the following check boxes as appropriate: Use Last Work Order's Start Date to Calculate Next Due Date Select this check box if you want generated work orders to be calculated from the target start date of the last work order. If you do not want to calculate the Next Due Date based on the target start of the last work order (for example, if you want the next work order to be generated when the last work order was completed instead), clear the check box.  Generate Work Order Based on Meter Readings (Do Not Estimate) Select this check box if you want work orders generated only when the defined meter reading has been reached. Clear this check box if you want the next work order due date to be based on the average metered usage.  Generate Work Order When Meter Frequency is Reached Select this check box if you want work orders for this PM to be automatically generated when the meter frequency has been reached and entered. This check box can only be selected if the Generate WO Based on Meter Reading (Do Not Estimate) check box has been selected.  Define the frequency with which you want the PM to generate work orders. The PM frequency can be time-based, meter-based, or both. For time-based master PMs, define the frequency criteria as wanted. For meter-based master PMs, define the frequency criteria as wanted. If the PM is a seasonal PM, define the days/dates that you want the PM to be active on the Seasonal Dates tab. On the Job Plan Sequence tab, enter job plan data for the PM. If the PM is the parent record in a PM hierarchy, define the child PMs on the PM Hierarchy tab. Click Save PM.
+null,46958a93-ca65-42e9-b50e-7d938cb9c2bf,option,"Edit/Revise Preventive Maintenance" "Search Preventive Maintenance" "PM Hierarchy" "PM Forecast" 
+null,46958a93-ca65-42e9-b50e-7d938cb9c2bf,text,The Failure Reporting tab is used to record failures in selected assets, the cause of the Failure, and the Corrective actions. This information is used mostly in Corrective Maintenance and Unplanned Maintenance Work Orders.
+null,46958a93-ca65-42e9-b50e-7d938cb9c2bf,option,"Failure Code Application" "Failure Code Hierarchy" "Search TRM Document Library" 
+null,3aabeac9-f832-4597-96ac-f0ebb1d25154,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,3aabeac9-f832-4597-96ac-f0ebb1d25154,pause,1000
+null,3aabeac9-f832-4597-96ac-f0ebb1d25154,text,I'm here to assist you with your Maximo related questions
+null,3aabeac9-f832-4597-96ac-f0ebb1d25154,pause,1000
+null,3aabeac9-f832-4597-96ac-f0ebb1d25154,text,Please select an option or type your question below
+null,3aabeac9-f832-4597-96ac-f0ebb1d25154,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,2784b77d-e403-4583-9ec1-72652ddb8b23,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,2784b77d-e403-4583-9ec1-72652ddb8b23,pause,1000
+null,2784b77d-e403-4583-9ec1-72652ddb8b23,text,I'm here to assist you with your Maximo related questions
+null,2784b77d-e403-4583-9ec1-72652ddb8b23,pause,1000
+null,2784b77d-e403-4583-9ec1-72652ddb8b23,text,Please select an option or type your question below
+null,2784b77d-e403-4583-9ec1-72652ddb8b23,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,8ef66d8e-f6b2-427e-8cfe-4f658c879f64,search,"PREVENTIVE MAINTENANCE APPLICATION - PM Statuses .pdf" "PREVENTIVE MAINTENANCE APPLICATION - PM Tab .pdf" "PLANNING AND SCHEDULING.pdf" 
+null,8ef66d8e-f6b2-427e-8cfe-4f658c879f64,text,What do you like me to help you with?
+null,8ef66d8e-f6b2-427e-8cfe-4f658c879f64,option,"User Registration" "Create a new user" "I can't login" 
+null,8ef66d8e-f6b2-427e-8cfe-4f658c879f64,text,I can help you with these items for Preventive Maintenance:
+null,8ef66d8e-f6b2-427e-8cfe-4f658c879f64,option,"Create Preventive Maintenance" "Edit/Revise Preventive Maintenance" "Search Preventive Maintenance" "Preventive Maintenance Reports" "Preventive Maintenance Errors" 
+null,8ef66d8e-f6b2-427e-8cfe-4f658c879f64,suggestion,"Preventive Maintenance: PM" "Preventive Maintenance Create: PM" "Preventive Maintenance Search: PM" "Preventive Maintenance Edit/Revise: PM" "Master PM: PM" "None of the above: PM" 
+null,8ef66d8e-f6b2-427e-8cfe-4f658c879f64,text,To manage users, you can create records that contain user names, passwords, and security profiles. These records determine which applications, options, and data that user can access. A user record must have a corresponding person record. You create person records either in the People application or in the Personal section in the Users application. In the User application, click New User. Optional: In the User field, type a unique user identifier. If you use autonumbering, the User field is already populated. Optional: If no matching person record is found, select one of the following options to create a person record: To create a person record based on information in the Personal section of the user record, click Yes. To select an existing person record, click No. In the Person field, select the person record. To create a person record, click No. In the Person field, select Detail Menu and then select Go to People. Optional: In the User Name field, type a value. The user name defaults to the ID name in the User field. This value is used to log in. You can change the user name to an employee number or email address. Click Set Password to define a password. Optional: Specify additional personal, user setting and general ledger account information.
+null,8ef66d8e-f6b2-427e-8cfe-4f658c879f64,text,Use the Master PM application to manage master preventive maintenance records (PMs) that you use as templates for other PMs. You can use the Master PM application to accomplish the following tasks: Create, modify, and view master PMs. Use a master PM to create and update associated PMs. Specify a preventive maintenance schedule for a master PM record. The schedule determines how often work orders are generated from associated PMs. The schedule can generate work orders based on elapsed time between work orders, on meter units used, or both. Select specific days, months, or seasons to generate work orders from associated PMs. Specify the status of all work orders that are generated from associated PMs. Assign a sequential list of job plans to a master PM so that you can schedule different levels of maintenance work at intervals that you specify. Define when alert messages are generated.
+null,8ef66d8e-f6b2-427e-8cfe-4f658c879f64,search,"Sites .pdf" "Dynamically Starting or Stopping - Rules Manager.pdf" "PREVENTIVE MAINTENANCE APPLICATION - PM Statuses .pdf" 
+null,8ef66d8e-f6b2-427e-8cfe-4f658c879f64,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,8ef66d8e-f6b2-427e-8cfe-4f658c879f64,pause,1000
+null,8ef66d8e-f6b2-427e-8cfe-4f658c879f64,text,I'm here to assist you with your Maximo related questions
+null,8ef66d8e-f6b2-427e-8cfe-4f658c879f64,pause,1000
+null,8ef66d8e-f6b2-427e-8cfe-4f658c879f64,text,Please select an option or type your question below
+null,8ef66d8e-f6b2-427e-8cfe-4f658c879f64,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,b38161c5-6f65-4a06-a10a-28e3c72b9d9a,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,b38161c5-6f65-4a06-a10a-28e3c72b9d9a,pause,1000
+null,b38161c5-6f65-4a06-a10a-28e3c72b9d9a,text,I'm here to assist you with your Maximo related questions
+null,b38161c5-6f65-4a06-a10a-28e3c72b9d9a,pause,1000
+null,b38161c5-6f65-4a06-a10a-28e3c72b9d9a,text,Please select an option or type your question below
+null,b38161c5-6f65-4a06-a10a-28e3c72b9d9a,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,296ec14c-ec88-4d6a-b711-f1ab2b5fd746,text,Ok, please type in your query then wait for an agent.
+null,296ec14c-ec88-4d6a-b711-f1ab2b5fd746,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,296ec14c-ec88-4d6a-b711-f1ab2b5fd746,pause,1000
+null,296ec14c-ec88-4d6a-b711-f1ab2b5fd746,text,I'm here to assist you with your Maximo related questions
+null,296ec14c-ec88-4d6a-b711-f1ab2b5fd746,pause,1000
+null,296ec14c-ec88-4d6a-b711-f1ab2b5fd746,text,Please select an option or type your question below
+null,296ec14c-ec88-4d6a-b711-f1ab2b5fd746,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,296ec14c-ec88-4d6a-b711-f1ab2b5fd746,text,Sorry for the trouble but we need this information to connect you with a best suited agent. 
+null,296ec14c-ec88-4d6a-b711-f1ab2b5fd746,text,To connect to an agent, we will need some of your information first. Please tell us your name.
+null,296ec14c-ec88-4d6a-b711-f1ab2b5fd746,text,Ok, please tell me your email.
+null,296ec14c-ec88-4d6a-b711-f1ab2b5fd746,image,NO TEXT FOR image
+null,296ec14c-ec88-4d6a-b711-f1ab2b5fd746,text,[Request agent →](https://teams.microsoft.com/_#/conversations/?ctx=chat)
+null,296ec14c-ec88-4d6a-b711-f1ab2b5fd746,search,"How Records are Used by the System .pdf" "Out of the Box Cron Tasks .pdf" "Operator Tasks Application Overview.pdf" 
+null,296ec14c-ec88-4d6a-b711-f1ab2b5fd746,video,NO TEXT FOR video
+null,296ec14c-ec88-4d6a-b711-f1ab2b5fd746,option,"Work Order Options" 
+null,296ec14c-ec88-4d6a-b711-f1ab2b5fd746,suggestion,"Search TRM Document Library: ad hoc reports" "Reports: ad hoc reports" "None of the above: ad hoc reports" 
+null,296ec14c-ec88-4d6a-b711-f1ab2b5fd746,search,"How to Create and Run a Quick Ad Hoc Report.pdf" "Ad Hoc Report Types  .pdf" "Printing Ad Hoc Reports .pdf" 
+null,18b23ac1-27dc-4685-93de-069a6e81706d,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,18b23ac1-27dc-4685-93de-069a6e81706d,pause,1000
+null,18b23ac1-27dc-4685-93de-069a6e81706d,text,I'm here to assist you with your Maximo related questions
+null,18b23ac1-27dc-4685-93de-069a6e81706d,pause,1000
+null,18b23ac1-27dc-4685-93de-069a6e81706d,text,Please select an option or type your question below
+null,18b23ac1-27dc-4685-93de-069a6e81706d,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,2f936af6-cc8f-4c15-a60b-986b1d00cb57,text,In the Work Order Tracking Application, go to Select Action and choose Change Status. The rules for changing a Work Order status are determined by your organization. The general rules are: WAPPR The work order is waiting for approval. WAPPR is the default status for work orders that are created in the Work Order Tracking, Changes, Releases, and Activities applications. APPR The work order is approved and the work can begin. WSCH The work order is waiting to be scheduled. WSCH is the default status for work orders that are created in the Preventive Maintenance application. WMATL Materials must arrive before the work can be performed. WPCOND The work can be performed only when the condition of the plant is suitable. For example, certain work might require that the plant is shut down. INPRG The work is in progress. INPRG is the default status for work orders that are created in the Quick Reporting application. COMP The physical work is completed. CLOSE The work order is closed. Inventory reservations for items that were not used for the work listed on the work order are removed, and the work order becomes a history record. CAN The work order is canceled. You cannot cancel a work order if the work is already in progress or if actuals are already reported. HISTEDIT The work order was edited in history.
+null,2f936af6-cc8f-4c15-a60b-986b1d00cb57,option,"Edit or Revise a Work Order" "Search for a Work Order" "Classify a Work Order" 
+null,2f936af6-cc8f-4c15-a60b-986b1d00cb57,suggestion,"WO Edit/Revise: WO Edit/Revise" "Search TRM Document Library: WO Edit/Revise" "None of the above: WO Edit/Revise" 
+null,2f936af6-cc8f-4c15-a60b-986b1d00cb57,suggestion,"WO Reschedule: signing off work order" "Work Order Options: signing off work order" "WO Errors: signing off work order" "WO Edit/Revise: signing off work order" "WO Duplicate: signing off work order" "None of the above: signing off work order" 
+null,2f936af6-cc8f-4c15-a60b-986b1d00cb57,option,"Create a Work Order" "Edit a Work Order" "Work Order Options" "Search for a Work Order" 
+null,2f936af6-cc8f-4c15-a60b-986b1d00cb57,text,Open the Work Order Tracking module and locate the WO. Depending on your business rules and the WO status, edit the desired fields or values and save the Work Order. If the Work Order is in the Closed status, using the 'Edit History Work Order' option allows some of the fields to be updated. Fields such as Work Order, Asset, Location, Status etc. cannot be changed. 
+null,2f936af6-cc8f-4c15-a60b-986b1d00cb57,option,"Reschedule a Work Order" "Classify a Work Order" "Search for a Work Order" "Change Work Order Status" 
+null,2f936af6-cc8f-4c15-a60b-986b1d00cb57,text,Thanks for speaking with me and have a great day!
+null,2f936af6-cc8f-4c15-a60b-986b1d00cb57,text,Hello. Good morning
+null,2f936af6-cc8f-4c15-a60b-986b1d00cb57,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,2f936af6-cc8f-4c15-a60b-986b1d00cb57,pause,1000
+null,2f936af6-cc8f-4c15-a60b-986b1d00cb57,text,I'm here to assist you with your Maximo related questions
+null,2f936af6-cc8f-4c15-a60b-986b1d00cb57,pause,1000
+null,2f936af6-cc8f-4c15-a60b-986b1d00cb57,text,Please select an option or type your question below
+null,2f936af6-cc8f-4c15-a60b-986b1d00cb57,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,e150ff18-386d-4951-959f-242091c9de9a,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,e150ff18-386d-4951-959f-242091c9de9a,pause,1000
+null,e150ff18-386d-4951-959f-242091c9de9a,text,I'm here to assist you with your Maximo related questions
+null,e150ff18-386d-4951-959f-242091c9de9a,pause,1000
+null,e150ff18-386d-4951-959f-242091c9de9a,text,Please select an option or type your question below
+null,e150ff18-386d-4951-959f-242091c9de9a,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,e150ff18-386d-4951-959f-242091c9de9a,suggestion,"Preventive Maintenance: PM" "Preventive Maintenance Create: PM" "Preventive Maintenance Search: PM" "Preventive Maintenance Edit/Revise: PM" "Master PM: PM" "None of the above: PM" 
+null,cbec14a5-df1f-4506-8523-b8a91e50ed1b,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,cbec14a5-df1f-4506-8523-b8a91e50ed1b,pause,1000
+null,cbec14a5-df1f-4506-8523-b8a91e50ed1b,text,I'm here to assist you with your Maximo related questions
+null,cbec14a5-df1f-4506-8523-b8a91e50ed1b,pause,1000
+null,cbec14a5-df1f-4506-8523-b8a91e50ed1b,text,Please select an option or type your question below
+null,cbec14a5-df1f-4506-8523-b8a91e50ed1b,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,4e809106-0625-426c-b5b6-0dcfec094cf9,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,4e809106-0625-426c-b5b6-0dcfec094cf9,pause,1000
+null,4e809106-0625-426c-b5b6-0dcfec094cf9,text,I'm here to assist you with your Maximo related questions
+null,4e809106-0625-426c-b5b6-0dcfec094cf9,pause,1000
+null,4e809106-0625-426c-b5b6-0dcfec094cf9,text,Please select an option or type your question below
+null,4e809106-0625-426c-b5b6-0dcfec094cf9,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,4fee3ad5-582d-4e8b-b835-d92d51d4510d,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,4fee3ad5-582d-4e8b-b835-d92d51d4510d,pause,1000
+null,4fee3ad5-582d-4e8b-b835-d92d51d4510d,text,I'm here to assist you with your Maximo related questions
+null,4fee3ad5-582d-4e8b-b835-d92d51d4510d,pause,1000
+null,4fee3ad5-582d-4e8b-b835-d92d51d4510d,text,Please select an option or type your question below
+null,4fee3ad5-582d-4e8b-b835-d92d51d4510d,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,ae152597-4e66-4284-b98f-49b6ba397811,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,ae152597-4e66-4284-b98f-49b6ba397811,pause,1000
+null,ae152597-4e66-4284-b98f-49b6ba397811,text,I'm here to assist you with your Maximo related questions
+null,ae152597-4e66-4284-b98f-49b6ba397811,pause,1000
+null,ae152597-4e66-4284-b98f-49b6ba397811,text,Please select an option or type your question below
+null,ae152597-4e66-4284-b98f-49b6ba397811,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,f2b93387-e6a1-44dd-9010-6f705b817efc,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,f2b93387-e6a1-44dd-9010-6f705b817efc,pause,1000
+null,f2b93387-e6a1-44dd-9010-6f705b817efc,text,I'm here to assist you with your Maximo related questions
+null,f2b93387-e6a1-44dd-9010-6f705b817efc,pause,1000
+null,f2b93387-e6a1-44dd-9010-6f705b817efc,text,Please select an option or type your question below
+null,f2b93387-e6a1-44dd-9010-6f705b817efc,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,804b39cb-c0ce-4f6f-83da-97a48fc19f61,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,804b39cb-c0ce-4f6f-83da-97a48fc19f61,pause,1000
+null,804b39cb-c0ce-4f6f-83da-97a48fc19f61,text,I'm here to assist you with your Maximo related questions
+null,804b39cb-c0ce-4f6f-83da-97a48fc19f61,pause,1000
+null,804b39cb-c0ce-4f6f-83da-97a48fc19f61,text,Please select an option or type your question below
+null,804b39cb-c0ce-4f6f-83da-97a48fc19f61,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,9c434146-8fe2-4dc9-be0c-151fed8168a9,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,9c434146-8fe2-4dc9-be0c-151fed8168a9,pause,1000
+null,9c434146-8fe2-4dc9-be0c-151fed8168a9,text,I'm here to assist you with your Maximo related questions
+null,9c434146-8fe2-4dc9-be0c-151fed8168a9,pause,1000
+null,9c434146-8fe2-4dc9-be0c-151fed8168a9,text,Please select an option or type your question below
+null,9c434146-8fe2-4dc9-be0c-151fed8168a9,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,84f68bc1-511a-4f80-befe-7d8f0ac7db95,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,84f68bc1-511a-4f80-befe-7d8f0ac7db95,pause,1000
+null,84f68bc1-511a-4f80-befe-7d8f0ac7db95,text,I'm here to assist you with your Maximo related questions
+null,84f68bc1-511a-4f80-befe-7d8f0ac7db95,pause,1000
+null,84f68bc1-511a-4f80-befe-7d8f0ac7db95,text,Please select an option or type your question below
+null,84f68bc1-511a-4f80-befe-7d8f0ac7db95,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,f1f832c2-9e10-41ce-8b5f-5c46fef9683f,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,f1f832c2-9e10-41ce-8b5f-5c46fef9683f,pause,1000
+null,f1f832c2-9e10-41ce-8b5f-5c46fef9683f,text,I'm here to assist you with your Maximo related questions
+null,f1f832c2-9e10-41ce-8b5f-5c46fef9683f,pause,1000
+null,f1f832c2-9e10-41ce-8b5f-5c46fef9683f,text,Please select an option or type your question below
+null,f1f832c2-9e10-41ce-8b5f-5c46fef9683f,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,23989bd0-b1dc-4e9a-aa6a-b58269c41021,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,23989bd0-b1dc-4e9a-aa6a-b58269c41021,pause,1000
+null,23989bd0-b1dc-4e9a-aa6a-b58269c41021,text,I'm here to assist you with your Maximo related questions
+null,23989bd0-b1dc-4e9a-aa6a-b58269c41021,pause,1000
+null,23989bd0-b1dc-4e9a-aa6a-b58269c41021,text,Please select an option or type your question below
+null,23989bd0-b1dc-4e9a-aa6a-b58269c41021,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,a9b3ca21-f405-48b3-b158-63a7892981e9,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,a9b3ca21-f405-48b3-b158-63a7892981e9,pause,1000
+null,a9b3ca21-f405-48b3-b158-63a7892981e9,text,I'm here to assist you with your Maximo related questions
+null,a9b3ca21-f405-48b3-b158-63a7892981e9,pause,1000
+null,a9b3ca21-f405-48b3-b158-63a7892981e9,text,Please select an option or type your question below
+null,a9b3ca21-f405-48b3-b158-63a7892981e9,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,ce006040-855a-4a0c-b606-7f0cafc48b47,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,ce006040-855a-4a0c-b606-7f0cafc48b47,pause,1000
+null,ce006040-855a-4a0c-b606-7f0cafc48b47,text,I'm here to assist you with your Maximo related questions
+null,ce006040-855a-4a0c-b606-7f0cafc48b47,pause,1000
+null,ce006040-855a-4a0c-b606-7f0cafc48b47,text,Please select an option or type your question below
+null,ce006040-855a-4a0c-b606-7f0cafc48b47,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,d4944eee-5850-455a-8e52-2cc16dca93ed,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,d4944eee-5850-455a-8e52-2cc16dca93ed,pause,1000
+null,d4944eee-5850-455a-8e52-2cc16dca93ed,text,I'm here to assist you with your Maximo related questions
+null,d4944eee-5850-455a-8e52-2cc16dca93ed,pause,1000
+null,d4944eee-5850-455a-8e52-2cc16dca93ed,text,Please select an option or type your question below
+null,d4944eee-5850-455a-8e52-2cc16dca93ed,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,64d40fb3-6129-44c9-bde2-fc1bb2348ff2,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,64d40fb3-6129-44c9-bde2-fc1bb2348ff2,pause,1000
+null,64d40fb3-6129-44c9-bde2-fc1bb2348ff2,text,I'm here to assist you with your Maximo related questions
+null,64d40fb3-6129-44c9-bde2-fc1bb2348ff2,pause,1000
+null,64d40fb3-6129-44c9-bde2-fc1bb2348ff2,text,Please select an option or type your question below
+null,64d40fb3-6129-44c9-bde2-fc1bb2348ff2,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,64d40fb3-6129-44c9-bde2-fc1bb2348ff2,text,Sorry for the trouble but we need this information to connect you with a best suited agent. 
+null,64d40fb3-6129-44c9-bde2-fc1bb2348ff2,text,To connect to an agent, we will need some of your information first. Please tell us your name.
+null,64d40fb3-6129-44c9-bde2-fc1bb2348ff2,text,Ok, please type in your query then wait for an agent.
+null,64d40fb3-6129-44c9-bde2-fc1bb2348ff2,image,NO TEXT FOR image
+null,64d40fb3-6129-44c9-bde2-fc1bb2348ff2,text,[Request agent →](https://teams.microsoft.com/_#/conversations/?ctx=chat)
+null,64d40fb3-6129-44c9-bde2-fc1bb2348ff2,text,Ok, please tell me your email.
+null,8a05f943-047a-4dc9-a830-f65ee7a05405,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,8a05f943-047a-4dc9-a830-f65ee7a05405,pause,1000
+null,8a05f943-047a-4dc9-a830-f65ee7a05405,text,I'm here to assist you with your Maximo related questions
+null,8a05f943-047a-4dc9-a830-f65ee7a05405,pause,1000
+null,8a05f943-047a-4dc9-a830-f65ee7a05405,text,Please select an option or type your question below
+null,8a05f943-047a-4dc9-a830-f65ee7a05405,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,0a8b2e9b-7962-41fe-87f7-a22383d4abe2,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,0a8b2e9b-7962-41fe-87f7-a22383d4abe2,pause,1000
+null,0a8b2e9b-7962-41fe-87f7-a22383d4abe2,text,I'm here to assist you with your Maximo related questions
+null,0a8b2e9b-7962-41fe-87f7-a22383d4abe2,pause,1000
+null,0a8b2e9b-7962-41fe-87f7-a22383d4abe2,text,Please select an option or type your question below
+null,0a8b2e9b-7962-41fe-87f7-a22383d4abe2,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,4cceee2d-24c8-467b-8372-12075700f8da,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,4cceee2d-24c8-467b-8372-12075700f8da,pause,1000
+null,4cceee2d-24c8-467b-8372-12075700f8da,text,I'm here to assist you with your Maximo related questions
+null,4cceee2d-24c8-467b-8372-12075700f8da,pause,1000
+null,4cceee2d-24c8-467b-8372-12075700f8da,text,Please select an option or type your question below
+null,4cceee2d-24c8-467b-8372-12075700f8da,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,4cceee2d-24c8-467b-8372-12075700f8da,text,What do you like me to help you with?
+null,4cceee2d-24c8-467b-8372-12075700f8da,option,"User Registration" "Create a new user" "I can't login" 
+null,4cceee2d-24c8-467b-8372-12075700f8da,suggestion,"Preventive Maintenance: PM" "Preventive Maintenance Create: PM" "Preventive Maintenance Search: PM" "Preventive Maintenance Edit/Revise: PM" "Master PM: PM" "None of the above: PM" 
+null,4cceee2d-24c8-467b-8372-12075700f8da,text,To manage users, you can create records that contain user names, passwords, and security profiles. These records determine which applications, options, and data that user can access. A user record must have a corresponding person record. You create person records either in the People application or in the Personal section in the Users application. In the User application, click New User. Optional: In the User field, type a unique user identifier. If you use autonumbering, the User field is already populated. Optional: If no matching person record is found, select one of the following options to create a person record: To create a person record based on information in the Personal section of the user record, click Yes. To select an existing person record, click No. In the Person field, select the person record. To create a person record, click No. In the Person field, select Detail Menu and then select Go to People. Optional: In the User Name field, type a value. The user name defaults to the ID name in the User field. This value is used to log in. You can change the user name to an employee number or email address. Click Set Password to define a password. Optional: Specify additional personal, user setting and general ledger account information.
+null,4cceee2d-24c8-467b-8372-12075700f8da,text,Use the Master PM application to manage master preventive maintenance records (PMs) that you use as templates for other PMs. You can use the Master PM application to accomplish the following tasks: Create, modify, and view master PMs. Use a master PM to create and update associated PMs. Specify a preventive maintenance schedule for a master PM record. The schedule determines how often work orders are generated from associated PMs. The schedule can generate work orders based on elapsed time between work orders, on meter units used, or both. Select specific days, months, or seasons to generate work orders from associated PMs. Specify the status of all work orders that are generated from associated PMs. Assign a sequential list of job plans to a master PM so that you can schedule different levels of maintenance work at intervals that you specify. Define when alert messages are generated.
+null,fdc89de0-c94c-4444-a8c8-3ac45020281d,suggestion,"Search TRM Document Library: creating a graph" "Bot Standby: creating a graph" "Right Answer: creating a graph" "Create Conditional Expression: creating a graph" "None of the above: creating a graph" 
+null,fdc89de0-c94c-4444-a8c8-3ac45020281d,search,"KPI Graph and KPI List .pdf" "Out of the Box Cron Tasks .pdf" "How to Create a Start Center Template.pdf" 
+null,fdc89de0-c94c-4444-a8c8-3ac45020281d,search,"Portlets .pdf" "How to Create a Start Center Template.pdf" "Configuring Start Center Components .pdf" 
+null,fdc89de0-c94c-4444-a8c8-3ac45020281d,search,"Starting a Record in a Workflow Process .pdf" "Roles Application .pdf" "Actions Application .pdf" 
+null,fdc89de0-c94c-4444-a8c8-3ac45020281d,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,fdc89de0-c94c-4444-a8c8-3ac45020281d,pause,1000
+null,fdc89de0-c94c-4444-a8c8-3ac45020281d,text,I'm here to assist you with your Maximo related questions
+null,fdc89de0-c94c-4444-a8c8-3ac45020281d,pause,1000
+null,fdc89de0-c94c-4444-a8c8-3ac45020281d,text,Please select an option or type your question below
+null,fdc89de0-c94c-4444-a8c8-3ac45020281d,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,fdc89de0-c94c-4444-a8c8-3ac45020281d,text,From the Assets application, display the asset whose status you want to change.  Select the Change Status action.  In the New Status field, select a status from the drop-down list, then click OK.
+null,fdc89de0-c94c-4444-a8c8-3ac45020281d,text,1. Select Preventive Maintenance > Preventive Maintenance from the Go To menu. 2. Under More Actions, in the left side bar, click on "Run Reports" 3. You will see two tabs in the popup "Report" & “Schedules" 4. To immediately generate the report choose the filters and click on create report 5. To schedule the creation of report use the schedule tab. 
+null,fdc89de0-c94c-4444-a8c8-3ac45020281d,text,An item assembly structure is a list of spare parts and subassemblies required to build an Asset or to define the requirements of a location. An Item Assembly structure is an Asset Template which list all its components and hierarchy. From the List tab of the Item Master application, display the item record for which you want to create an item assembly structure.  From the Item Assembly Structure tab, click New Row to open the Children window.   Fill in required and additional fields as needed then Save Item. (An asterisk (*) indicates a required field) The following rules apply when creating an item assembly structure: If the parent item is a rotating item, add either rotating or non-rotating items to the item assembly structure. If the parent item is a non-rotating item, add other non-rotating items only to the item assembly structure. Rotating items cannot be added to the item assembly structure if the parent item is not a rotating item. If a rotating item is applied to an item assembly structure, any child rotating items become part of the parent rotating item and do not have their own inventory balance. If the item assembly structure is for an item kit, do not include rotating items or condition-enabled items.
+null,fdc89de0-c94c-4444-a8c8-3ac45020281d,text,You use the Item Master application to define items that are stocked in your storerooms. You group these items in an item set that can be shared by the organizations that use the item set. When you create an item record, you define the main attributes of the item, such as commodity code and order and issue units. You can also specify items that you can use in its place and condition codes that you want applied to the item. 
+null,fdc89de0-c94c-4444-a8c8-3ac45020281d,option,"How do I create an item assembly structure?" 
+null,fdc89de0-c94c-4444-a8c8-3ac45020281d,text,You use the Failure Codes application to build and to display failure hierarchies. Hierarchies help you construct accurate histories of the failures that affect your assets and operating locations. 
+null,fdc89de0-c94c-4444-a8c8-3ac45020281d,option,"Failure Code Hierarchy" "Failure Code Duplicate" 
+null,fdc89de0-c94c-4444-a8c8-3ac45020281d,text,I can help you with these items for Preventive Maintenance:
+null,fdc89de0-c94c-4444-a8c8-3ac45020281d,option,"Create Preventive Maintenance" "Edit/Revise Preventive Maintenance" "Search Preventive Maintenance" "Preventive Maintenance Reports" "Preventive Maintenance Errors" 
+null,fdc89de0-c94c-4444-a8c8-3ac45020281d,suggestion,"Search TRM Document Library: KPI Graph Setup" "WorkView: KPI Graph Setup" "Change Subject: KPI Graph Setup" "None of the above: KPI Graph Setup" 
+null,fdc89de0-c94c-4444-a8c8-3ac45020281d,suggestion,"Preventive Maintenance Create: extending a PM" "Preventive Maintenance Search: extending a PM" "Preventive Maintenance Edit/Revise: extending a PM" "Master PM: extending a PM" "PM Hierarchy: extending a PM" "None of the above: extending a PM" 
+null,fdc89de0-c94c-4444-a8c8-3ac45020281d,search,"Loop Calibration .pdf" "How to_ Add Failure Reporting to a Work Order.pdf" "Creation of Data Sheets .pdf" 
+null,fdc89de0-c94c-4444-a8c8-3ac45020281d,search,"Combining Elapsed Time & Meters for PMs.pdf" "Working with a Work Order Schedule  .pdf" "How to Create a Time Based Master PM.pdf" 
+null,16bf9b61-714d-49af-80d9-3dfcb78c4aa6,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,16bf9b61-714d-49af-80d9-3dfcb78c4aa6,pause,1000
+null,16bf9b61-714d-49af-80d9-3dfcb78c4aa6,text,I'm here to assist you with your Maximo related questions
+null,16bf9b61-714d-49af-80d9-3dfcb78c4aa6,pause,1000
+null,16bf9b61-714d-49af-80d9-3dfcb78c4aa6,text,Please select an option or type your question below
+null,16bf9b61-714d-49af-80d9-3dfcb78c4aa6,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,c1145ac5-c8dd-4ff3-99ff-9d7b75153ca5,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,c1145ac5-c8dd-4ff3-99ff-9d7b75153ca5,pause,1000
+null,c1145ac5-c8dd-4ff3-99ff-9d7b75153ca5,text,I'm here to assist you with your Maximo related questions
+null,c1145ac5-c8dd-4ff3-99ff-9d7b75153ca5,pause,1000
+null,c1145ac5-c8dd-4ff3-99ff-9d7b75153ca5,text,Please select an option or type your question below
+null,c1145ac5-c8dd-4ff3-99ff-9d7b75153ca5,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,c1145ac5-c8dd-4ff3-99ff-9d7b75153ca5,search,"How to Create and Run a Quick Ad Hoc Report.pdf" "Ad Hoc Report Types  .pdf" "Printing Ad Hoc Reports .pdf" 
+null,d256c8e9-5810-4d5d-a1f9-7c65a70824c8,image,NO TEXT FOR image
+null,d256c8e9-5810-4d5d-a1f9-7c65a70824c8,text,[Request agent →]({"actions":"none","code":0,"exception":null,"message":"https://teams.microsoft.com/_#/conversations/?ctx=chat","messageException":null,"userMessage":"The Agent will be in touch in a few minutes."})
+null,d256c8e9-5810-4d5d-a1f9-7c65a70824c8,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,d256c8e9-5810-4d5d-a1f9-7c65a70824c8,pause,1000
+null,d256c8e9-5810-4d5d-a1f9-7c65a70824c8,text,I'm here to assist you with your Maximo related questions
+null,d256c8e9-5810-4d5d-a1f9-7c65a70824c8,pause,1000
+null,d256c8e9-5810-4d5d-a1f9-7c65a70824c8,text,Please select an option or type your question below
+null,d256c8e9-5810-4d5d-a1f9-7c65a70824c8,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,d256c8e9-5810-4d5d-a1f9-7c65a70824c8,text,Sorry for the trouble but we need this information to connect you with a best suited agent. 
+null,d256c8e9-5810-4d5d-a1f9-7c65a70824c8,text,To connect to an agent, we will need some of your information first. Please tell us your name.
+null,d256c8e9-5810-4d5d-a1f9-7c65a70824c8,text,Ok, please type in your query then wait for an agent.
+null,d256c8e9-5810-4d5d-a1f9-7c65a70824c8,text,Ok, please tell me your email.
+null,b13c2479-909f-4e1f-8c6b-7e4f9d8984e8,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,b13c2479-909f-4e1f-8c6b-7e4f9d8984e8,pause,1000
+null,b13c2479-909f-4e1f-8c6b-7e4f9d8984e8,text,I'm here to assist you with your Maximo related questions
+null,b13c2479-909f-4e1f-8c6b-7e4f9d8984e8,pause,1000
+null,b13c2479-909f-4e1f-8c6b-7e4f9d8984e8,text,Please select an option or type your question below
+null,b13c2479-909f-4e1f-8c6b-7e4f9d8984e8,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,b13c2479-909f-4e1f-8c6b-7e4f9d8984e8,search,"How to Create and Run a Quick Ad Hoc Report.pdf" "How to_ Export an AD HOC to Eclipse BIRT Designer.pdf" "Deleting Ad Hoc Reports .pdf" 
+null,c1da1b34-8693-4f48-a339-333aef89ffd6,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,c1da1b34-8693-4f48-a339-333aef89ffd6,pause,1000
+null,c1da1b34-8693-4f48-a339-333aef89ffd6,text,I'm here to assist you with your Maximo related questions
+null,c1da1b34-8693-4f48-a339-333aef89ffd6,pause,1000
+null,c1da1b34-8693-4f48-a339-333aef89ffd6,text,Please select an option or type your question below
+null,c1da1b34-8693-4f48-a339-333aef89ffd6,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,c1da1b34-8693-4f48-a339-333aef89ffd6,search,"How to Create and Run a Quick Ad Hoc Report.pdf" "How to_ Export an AD HOC to Eclipse BIRT Designer.pdf" "Deleting Ad Hoc Reports .pdf" 
+null,75628dfc-0903-43ec-8401-a8a513b4cc19,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,75628dfc-0903-43ec-8401-a8a513b4cc19,pause,1000
+null,75628dfc-0903-43ec-8401-a8a513b4cc19,text,I'm here to assist you with your Maximo related questions
+null,75628dfc-0903-43ec-8401-a8a513b4cc19,pause,1000
+null,75628dfc-0903-43ec-8401-a8a513b4cc19,text,Please select an option or type your question below
+null,75628dfc-0903-43ec-8401-a8a513b4cc19,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,75628dfc-0903-43ec-8401-a8a513b4cc19,search,"IDCON CMS 100R Motor AC (With Watermark) (1).pdf" "IDCON CMS 168R Hydraulic Motor (With Watermark).pdf" "JOB PLANS APPLICATION OVERVIEW.pdf" 
+null,0964d116-f26a-4d77-a841-f9478e8dc362,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,0964d116-f26a-4d77-a841-f9478e8dc362,pause,1000
+null,0964d116-f26a-4d77-a841-f9478e8dc362,text,I'm here to assist you with your Maximo related questions
+null,0964d116-f26a-4d77-a841-f9478e8dc362,pause,1000
+null,0964d116-f26a-4d77-a841-f9478e8dc362,text,Please select an option or type your question below
+null,0964d116-f26a-4d77-a841-f9478e8dc362,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,0964d116-f26a-4d77-a841-f9478e8dc362,search,"IDCON CMS 100R Motor AC (With Watermark) (1).pdf" 
+null,0964d116-f26a-4d77-a841-f9478e8dc362,search,"IDCON CMS 199R Lubrication-Single Point Units (With Watermark).pdf" "IDCON CMS 199R Lubrication-Single Point Units (With Watermark) (1).pdf" "Escalations Application .pdf" 
+null,3441237f-e861-499b-8e6b-d023e45ab1dc,search,"How to Create and Run a Quick Ad Hoc Report.pdf" "How to_ Export an AD HOC to Eclipse BIRT Designer.pdf" "Deleting Ad Hoc Reports .pdf" 
+null,3441237f-e861-499b-8e6b-d023e45ab1dc,video,NO TEXT FOR video
+null,3441237f-e861-499b-8e6b-d023e45ab1dc,option,"Work Order Options" 
+null,3441237f-e861-499b-8e6b-d023e45ab1dc,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,3441237f-e861-499b-8e6b-d023e45ab1dc,pause,1000
+null,3441237f-e861-499b-8e6b-d023e45ab1dc,text,I'm here to assist you with your Maximo related questions
+null,3441237f-e861-499b-8e6b-d023e45ab1dc,pause,1000
+null,3441237f-e861-499b-8e6b-d023e45ab1dc,text,Please select an option or type your question below
+null,3441237f-e861-499b-8e6b-d023e45ab1dc,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,92a1ba9b-ef6d-46b3-9fe4-c9b4e386eedb,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,92a1ba9b-ef6d-46b3-9fe4-c9b4e386eedb,pause,1000
+null,92a1ba9b-ef6d-46b3-9fe4-c9b4e386eedb,text,I'm here to assist you with your Maximo related questions
+null,92a1ba9b-ef6d-46b3-9fe4-c9b4e386eedb,pause,1000
+null,92a1ba9b-ef6d-46b3-9fe4-c9b4e386eedb,text,Please select an option or type your question below
+null,92a1ba9b-ef6d-46b3-9fe4-c9b4e386eedb,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,92a1ba9b-ef6d-46b3-9fe4-c9b4e386eedb,text,Work Order Tracking Procedure 1-In the Work Order Tracking application, click the New Work Order icon in the toolbar. 2-Specify whether you are creating the work order for a location, asset, configuration item, or general ledger account. If a selected location has a single associated asset, the asset value is copied to the record. If a selected asset is a linear asset, additional fields display. 3-Optional: Specify a type for the work order and the priority of the work order for scheduling purposes. 4-Specify any additional schedule information and responsibility information. You can specify a job plan, safety plan, failure class, scheduling information, and planned labor, materials, tools, and services. If you specify a job plan or job task that is related to an inspection form, that inspection form is automatically added to the Inspection Form field. 5-Save the work order. Note: An asterisk (*) indicates a required field  Several applications in Maximo can be used to create work orders depending on business process and permissions. - Work Order Tracking - Use to create and report on high-volume or complex work orders. - Changes - Use to create work orders related to service desk tickets. - Condition Monitoring - Use to generate work orders to correct problem conditions found during monitoring procedures. - Incidents - Use to create work orders related to service desk tickets - Preventive Maintenance - Use to generate scheduled maintenance work orders. - Problems - Use to create work orders related to service desk tickets. - Quick Reporting - Use to create work orders and report actual work done for simple jobs, unplanned work, or work not performed by the maintenance department. - Releases - Use to create work orders related to service desk tickets. - Service Requests - Use to create work orders related to service desk tickets.
+null,92a1ba9b-ef6d-46b3-9fe4-c9b4e386eedb,option,"Edit a Work Order" "Service Request" "Preventive Maintenance" 
+null,af814a22-8e63-4be8-87ea-033115337628,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,af814a22-8e63-4be8-87ea-033115337628,pause,1000
+null,af814a22-8e63-4be8-87ea-033115337628,text,I'm here to assist you with your Maximo related questions
+null,af814a22-8e63-4be8-87ea-033115337628,pause,1000
+null,af814a22-8e63-4be8-87ea-033115337628,text,Please select an option or type your question below
+null,af814a22-8e63-4be8-87ea-033115337628,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,af814a22-8e63-4be8-87ea-033115337628,search,"IDCON CMS 100R Motor AC (With Watermark) (1).pdf" "IDCON CMS 168R Hydraulic Motor (With Watermark).pdf" "JOB PLANS APPLICATION OVERVIEW.pdf" 
+null,af814a22-8e63-4be8-87ea-033115337628,search,"IDCON CMS 196R Limit Switch-Rotary (With Watermark).pdf" 
+null,af814a22-8e63-4be8-87ea-033115337628,search,"IDCON CMS 196R Limit Switch-Rotary (With Watermark).pdf" "IDCON CMS 182R Proximity Switch-Inductive (With Watermark).pdf" "IDCON CMS 187R Meter-Magnetic Flow (With Watermark).pdf" 
+null,77e4a2fc-18cd-47ae-9ee5-b68f06ecbfcc,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,77e4a2fc-18cd-47ae-9ee5-b68f06ecbfcc,pause,1000
+null,77e4a2fc-18cd-47ae-9ee5-b68f06ecbfcc,text,I'm here to assist you with your Maximo related questions
+null,77e4a2fc-18cd-47ae-9ee5-b68f06ecbfcc,pause,1000
+null,77e4a2fc-18cd-47ae-9ee5-b68f06ecbfcc,text,Please select an option or type your question below
+null,77e4a2fc-18cd-47ae-9ee5-b68f06ecbfcc,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,6c6c2990-c8ed-4e1c-a364-cafd400fd5e5,suggestion,"Preventive Maintenance Create: Preventive Maintenance Create" "Search TRM Document Library: Preventive Maintenance Create" "None of the above: Preventive Maintenance Create" 
+null,6c6c2990-c8ed-4e1c-a364-cafd400fd5e5,text,In the Preventive Maintenance application, on the toolbar, click New PM. If the PM field is empty, specify a value. Enter a description. Click Long Description if you need more space. In the Location, Asset, or GL Account fields, specify a value. The asset or location is the entity for which you intend to schedule work - you must enter a value in one of these fields. If you have specified a GL account, when work orders are generated from the PM record, the system takes any unspecified segments from the associated location and or asset. Optional: Build a PM for the assets on a route. In the Route field, specify a value. Fill the remaining required fields as appropriate. Select the Use this PM to Trigger PM Hierarchy check box if you want to generate work orders for the entire hierarchy when this PM becomes due. If you want to generate a work order for only this PM when it becomes due, and not the other PMs in the hierarchy, clear the check box.  Select the Child Work Orders and Tasks Will Inherit Status Changes check box if you want work orders generated from this PM to inherit status changes from a parent work order.  Click the Frequency tab. In the Work Order Generation Information section, select the following check boxes as appropriate: Use Last Work Order's Start Date to Calculate Next Due Date Select this check box if you want generated work orders to be calculated from the target start date of the last work order. If you do not want to calculate the Next Due Date based on the target start of the last work order (for example, if you want the next work order to be generated when the last work order was completed instead), clear the check box.  Generate Work Order Based on Meter Readings (Do Not Estimate) Select this check box if you want work orders generated only when the defined meter reading has been reached. Clear this check box if you want the next work order due date to be based on the average metered usage.  Generate Work Order When Meter Frequency is Reached Select this check box if you want work orders for this PM to be automatically generated when the meter frequency has been reached and entered. This check box can only be selected if the Generate WO Based on Meter Reading (Do Not Estimate) check box has been selected.  Define the frequency with which you want the PM to generate work orders. The PM frequency can be time-based, meter-based, or both. For time-based master PMs, define the frequency criteria as wanted. For meter-based master PMs, define the frequency criteria as wanted. If the PM is a seasonal PM, define the days/dates that you want the PM to be active on the Seasonal Dates tab. On the Job Plan Sequence tab, enter job plan data for the PM. If the PM is the parent record in a PM hierarchy, define the child PMs on the PM Hierarchy tab. Click Save PM.
+null,6c6c2990-c8ed-4e1c-a364-cafd400fd5e5,option,"Edit/Revise Preventive Maintenance" "Search Preventive Maintenance" "PM Hierarchy" "PM Forecast" 
+null,6c6c2990-c8ed-4e1c-a364-cafd400fd5e5,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,6c6c2990-c8ed-4e1c-a364-cafd400fd5e5,pause,1000
+null,6c6c2990-c8ed-4e1c-a364-cafd400fd5e5,text,I'm here to assist you with your Maximo related questions
+null,6c6c2990-c8ed-4e1c-a364-cafd400fd5e5,pause,1000
+null,6c6c2990-c8ed-4e1c-a364-cafd400fd5e5,text,Please select an option or type your question below
+null,6c6c2990-c8ed-4e1c-a364-cafd400fd5e5,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,6c6c2990-c8ed-4e1c-a364-cafd400fd5e5,text,I can help you with these items for Preventive Maintenance:
+null,6c6c2990-c8ed-4e1c-a364-cafd400fd5e5,option,"Create Preventive Maintenance" "Edit/Revise Preventive Maintenance" "Search Preventive Maintenance" "Preventive Maintenance Reports" "Preventive Maintenance Errors" 
+null,6c6c2990-c8ed-4e1c-a364-cafd400fd5e5,suggestion,"How do I create an item master record?: create an item master" "What is the Item Master application used for?: create an item master" "None of the above: create an item master" 
+null,6c6c2990-c8ed-4e1c-a364-cafd400fd5e5,text,On the toolbar of the Item Master application, click New Item. Fill in required and additional fields as needed then Save Item. (An asterisk (*) indicates a required field)
+null,6c6c2990-c8ed-4e1c-a364-cafd400fd5e5,option,"What is the Item Master Application?" "What is an Item Master Status?" "What is a storeroom?" "How do I add items to storerooms?" 
+null,af814a22-8e63-4be8-87ea-033115337628,suggestion,"Search TRM Document Library: single point units" "Right Answer: single point units" "Chart of Accounts: single point units" "Key Terms: single point units" "None of the above: single point units" 
+null,af814a22-8e63-4be8-87ea-033115337628,search,"IDCON CMS 199R Lubrication-Single Point Units (With Watermark).pdf" "IDCON CMS 199R Lubrication-Single Point Units (With Watermark) (1).pdf" 
+null,af814a22-8e63-4be8-87ea-033115337628,search,"IDCON CMS 199R Lubrication-Single Point Units (With Watermark).pdf" "IDCON CMS 199R Lubrication-Single Point Units (With Watermark) (1).pdf" "RampUp Walk Thru - Rules Manager.pdf" 
+null,af814a22-8e63-4be8-87ea-033115337628,text,Awesome! I'm glad to hear I was able to help you. Anything else I may assist you with today? 
+null,af814a22-8e63-4be8-87ea-033115337628,text,1. In the Chart of Accounts application, select the organization for which you want to create a general ledger account code. 2. Click New Row. 3. Specify the component values for the general ledger account value. 4. Click OK. 5. Optional: Change the long description. If you change the descriptions for component values, the general ledger account description is not updated. Update the general ledger account description manually. 6. Optional: Specify the appropriate type code. 7. The default for the Active Date field is the date that the general ledger account is created. 8. To activate the account at a different date, specify a future date. The general ledger account remains inactive until the date specified is reached. The read-only Active check box shows as cleared to indicate that the account is not active. 9. If you want the general ledger account to expire by a specific date, specify a date in the Expiration Date field. 10. Save your changes.
+null,dabb905c-9130-4b06-80cb-0ab65363df30,search,"IDCON CMS 100R Motor AC (With Watermark) (1).pdf" "IDCON CMS 168R Hydraulic Motor (With Watermark).pdf" "Asset Templates .pdf" 
+null,f28db28d-3612-4aba-8bc6-87c6fdc86ea5,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,f28db28d-3612-4aba-8bc6-87c6fdc86ea5,pause,1000
+null,f28db28d-3612-4aba-8bc6-87c6fdc86ea5,text,I'm here to assist you with your Maximo related questions
+null,f28db28d-3612-4aba-8bc6-87c6fdc86ea5,pause,1000
+null,f28db28d-3612-4aba-8bc6-87c6fdc86ea5,text,Please select an option or type your question below
+null,f28db28d-3612-4aba-8bc6-87c6fdc86ea5,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,dabb905c-9130-4b06-80cb-0ab65363df30,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,dabb905c-9130-4b06-80cb-0ab65363df30,pause,1000
+null,dabb905c-9130-4b06-80cb-0ab65363df30,text,I'm here to assist you with your Maximo related questions
+null,dabb905c-9130-4b06-80cb-0ab65363df30,pause,1000
+null,dabb905c-9130-4b06-80cb-0ab65363df30,text,Please select an option or type your question below
+null,dabb905c-9130-4b06-80cb-0ab65363df30,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,9864dc12-ee28-4d7b-bf92-b93117161182,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,9864dc12-ee28-4d7b-bf92-b93117161182,pause,1000
+null,9864dc12-ee28-4d7b-bf92-b93117161182,text,I'm here to assist you with your Maximo related questions
+null,9864dc12-ee28-4d7b-bf92-b93117161182,pause,1000
+null,9864dc12-ee28-4d7b-bf92-b93117161182,text,Please select an option or type your question below
+null,9864dc12-ee28-4d7b-bf92-b93117161182,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,dabb905c-9130-4b06-80cb-0ab65363df30,search,"IDCON CMS 100R Motor AC (With Watermark) (1).pdf" "IDCON CMS 168R Hydraulic Motor (With Watermark).pdf" "Item Master Application - ROTATING ITEMS.pdf" 
+null,76223e78-625d-4f1c-a3de-3169f7f5249f,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,76223e78-625d-4f1c-a3de-3169f7f5249f,pause,1000
+null,76223e78-625d-4f1c-a3de-3169f7f5249f,text,I'm here to assist you with your Maximo related questions
+null,76223e78-625d-4f1c-a3de-3169f7f5249f,pause,1000
+null,76223e78-625d-4f1c-a3de-3169f7f5249f,text,Please select an option or type your question below
+null,76223e78-625d-4f1c-a3de-3169f7f5249f,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,0aae7fe8-4a43-4362-9062-96c76550d002,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,0aae7fe8-4a43-4362-9062-96c76550d002,pause,1000
+null,0aae7fe8-4a43-4362-9062-96c76550d002,text,I'm here to assist you with your Maximo related questions
+null,0aae7fe8-4a43-4362-9062-96c76550d002,pause,1000
+null,0aae7fe8-4a43-4362-9062-96c76550d002,text,Please select an option or type your question below
+null,0aae7fe8-4a43-4362-9062-96c76550d002,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,f9a4d120-da67-4a5a-9bf3-f75c36da83ee,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,f9a4d120-da67-4a5a-9bf3-f75c36da83ee,pause,1000
+null,f9a4d120-da67-4a5a-9bf3-f75c36da83ee,text,I'm here to assist you with your Maximo related questions
+null,f9a4d120-da67-4a5a-9bf3-f75c36da83ee,pause,1000
+null,f9a4d120-da67-4a5a-9bf3-f75c36da83ee,text,Please select an option or type your question below
+null,f9a4d120-da67-4a5a-9bf3-f75c36da83ee,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,092f5a6f-0399-4d60-b15b-e995d252264f,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,092f5a6f-0399-4d60-b15b-e995d252264f,pause,1000
+null,092f5a6f-0399-4d60-b15b-e995d252264f,text,I'm here to assist you with your Maximo related questions
+null,092f5a6f-0399-4d60-b15b-e995d252264f,pause,1000
+null,092f5a6f-0399-4d60-b15b-e995d252264f,text,Please select an option or type your question below
+null,092f5a6f-0399-4d60-b15b-e995d252264f,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,995f96b2-ae80-45fe-ad6f-34a0b492abe3,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,995f96b2-ae80-45fe-ad6f-34a0b492abe3,pause,1000
+null,995f96b2-ae80-45fe-ad6f-34a0b492abe3,text,I'm here to assist you with your Maximo related questions
+null,995f96b2-ae80-45fe-ad6f-34a0b492abe3,pause,1000
+null,995f96b2-ae80-45fe-ad6f-34a0b492abe3,text,Please select an option or type your question below
+null,995f96b2-ae80-45fe-ad6f-34a0b492abe3,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,53afdb91-75fe-4f33-af85-e51d046c9bf6,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,53afdb91-75fe-4f33-af85-e51d046c9bf6,pause,1000
+null,53afdb91-75fe-4f33-af85-e51d046c9bf6,text,I'm here to assist you with your Maximo related questions
+null,53afdb91-75fe-4f33-af85-e51d046c9bf6,pause,1000
+null,53afdb91-75fe-4f33-af85-e51d046c9bf6,text,Please select an option or type your question below
+null,53afdb91-75fe-4f33-af85-e51d046c9bf6,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,735eb01c-26f0-4e2b-918a-97827aa78b47,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,735eb01c-26f0-4e2b-918a-97827aa78b47,pause,1000
+null,735eb01c-26f0-4e2b-918a-97827aa78b47,text,I'm here to assist you with your Maximo related questions
+null,735eb01c-26f0-4e2b-918a-97827aa78b47,pause,1000
+null,735eb01c-26f0-4e2b-918a-97827aa78b47,text,Please select an option or type your question below
+null,735eb01c-26f0-4e2b-918a-97827aa78b47,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,a63748ff-2e02-4dee-bf75-c1bc714e344e,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,a63748ff-2e02-4dee-bf75-c1bc714e344e,pause,1000
+null,a63748ff-2e02-4dee-bf75-c1bc714e344e,text,I'm here to assist you with your Maximo related questions
+null,a63748ff-2e02-4dee-bf75-c1bc714e344e,pause,1000
+null,a63748ff-2e02-4dee-bf75-c1bc714e344e,text,Please select an option or type your question below
+null,a63748ff-2e02-4dee-bf75-c1bc714e344e,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,abe64b85-ffaa-4a45-951f-79a3bcc03247,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,abe64b85-ffaa-4a45-951f-79a3bcc03247,pause,1000
+null,abe64b85-ffaa-4a45-951f-79a3bcc03247,text,I'm here to assist you with your Maximo related questions
+null,abe64b85-ffaa-4a45-951f-79a3bcc03247,pause,1000
+null,abe64b85-ffaa-4a45-951f-79a3bcc03247,text,Please select an option or type your question below
+null,abe64b85-ffaa-4a45-951f-79a3bcc03247,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,a6028642-efc1-4543-aac7-242f771bee03,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,a6028642-efc1-4543-aac7-242f771bee03,pause,1000
+null,a6028642-efc1-4543-aac7-242f771bee03,text,I'm here to assist you with your Maximo related questions
+null,a6028642-efc1-4543-aac7-242f771bee03,pause,1000
+null,a6028642-efc1-4543-aac7-242f771bee03,text,Please select an option or type your question below
+null,a6028642-efc1-4543-aac7-242f771bee03,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,b147b707-f0c3-4ba2-8917-8735d1b2947c,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,b147b707-f0c3-4ba2-8917-8735d1b2947c,pause,1000
+null,b147b707-f0c3-4ba2-8917-8735d1b2947c,text,I'm here to assist you with your Maximo related questions
+null,b147b707-f0c3-4ba2-8917-8735d1b2947c,pause,1000
+null,b147b707-f0c3-4ba2-8917-8735d1b2947c,text,Please select an option or type your question below
+null,b147b707-f0c3-4ba2-8917-8735d1b2947c,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,0d46acf6-d7dc-43ef-a7e9-09524b487b4c,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,0d46acf6-d7dc-43ef-a7e9-09524b487b4c,pause,1000
+null,0d46acf6-d7dc-43ef-a7e9-09524b487b4c,text,I'm here to assist you with your Maximo related questions
+null,0d46acf6-d7dc-43ef-a7e9-09524b487b4c,pause,1000
+null,0d46acf6-d7dc-43ef-a7e9-09524b487b4c,text,Please select an option or type your question below
+null,0d46acf6-d7dc-43ef-a7e9-09524b487b4c,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,ce98e8ad-b9a3-4117-9ebe-d640aad77da6,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,ce98e8ad-b9a3-4117-9ebe-d640aad77da6,pause,1000
+null,ce98e8ad-b9a3-4117-9ebe-d640aad77da6,text,I'm here to assist you with your Maximo related questions
+null,ce98e8ad-b9a3-4117-9ebe-d640aad77da6,pause,1000
+null,ce98e8ad-b9a3-4117-9ebe-d640aad77da6,text,Please select an option or type your question below
+null,ce98e8ad-b9a3-4117-9ebe-d640aad77da6,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,48d428cc-ebce-4d32-8789-1d65be4d987a,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,48d428cc-ebce-4d32-8789-1d65be4d987a,pause,1000
+null,48d428cc-ebce-4d32-8789-1d65be4d987a,text,I'm here to assist you with your Maximo related questions
+null,48d428cc-ebce-4d32-8789-1d65be4d987a,pause,1000
+null,48d428cc-ebce-4d32-8789-1d65be4d987a,text,Please select an option or type your question below
+null,48d428cc-ebce-4d32-8789-1d65be4d987a,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,33f30f73-9814-4a93-9bdf-f72c71b7826a,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,33f30f73-9814-4a93-9bdf-f72c71b7826a,pause,1000
+null,33f30f73-9814-4a93-9bdf-f72c71b7826a,text,I'm here to assist you with your Maximo related questions
+null,33f30f73-9814-4a93-9bdf-f72c71b7826a,pause,1000
+null,33f30f73-9814-4a93-9bdf-f72c71b7826a,text,Please select an option or type your question below
+null,33f30f73-9814-4a93-9bdf-f72c71b7826a,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,87ad4632-2882-4d62-b656-dfe86b3ba181,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,87ad4632-2882-4d62-b656-dfe86b3ba181,pause,1000
+null,87ad4632-2882-4d62-b656-dfe86b3ba181,text,I'm here to assist you with your Maximo related questions
+null,87ad4632-2882-4d62-b656-dfe86b3ba181,pause,1000
+null,87ad4632-2882-4d62-b656-dfe86b3ba181,text,Please select an option or type your question below
+null,87ad4632-2882-4d62-b656-dfe86b3ba181,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 
+null,87ad4632-2882-4d62-b656-dfe86b3ba181,search,"How to Create and Run a Quick Ad Hoc Report.pdf" "How to_ Export an AD HOC to Eclipse BIRT Designer.pdf" "Deleting Ad Hoc Reports .pdf" 

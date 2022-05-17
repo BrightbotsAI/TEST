@@ -1,0 +1,7 @@
+genericId,watsonChatId,responseType,responseText
+null,2777c387-7c51-4942-87a2-160835b98a54,text, Hi there, I am TRM's virtual assistant! 👋🏽 
+null,2777c387-7c51-4942-87a2-160835b98a54,pause,1000
+null,2777c387-7c51-4942-87a2-160835b98a54,text,I'm here to assist you with your Maximo related questions
+null,2777c387-7c51-4942-87a2-160835b98a54,pause,1000
+null,2777c387-7c51-4942-87a2-160835b98a54,text,Please select an option or type your question below
+null,2777c387-7c51-4942-87a2-160835b98a54,option,"Work Order" "Purchase Order" "Preventive Maintenance" "Service Request" "User Access" "Reports" "What is Maximo" 

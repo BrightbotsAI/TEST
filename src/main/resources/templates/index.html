@@ -1,0 +1,202 @@
+<!DOCTYPE html SYSTEM "http://www.thymeleaf.org/dtd/xhtml1-strict-thymeleaf-4.dtd">
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="ISO-8859-1">
+    <title>Watson Assistant Insights Dashboard</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+    <!-- Nuestro css-->
+    <link rel="stylesheet" type="text/css" th:href="@{/css/charts.css}">
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <!-- Nuestro js-->
+    <script type="text/javascript" th:src="@{/js/charts.js}"></script>
+
+    <script th:inline="javascript">
+        /*const mostSearchedDocumentInfo = /!*[[${mostSearchedDocumentInfo}]]*!/'noValue';*/
+    </script>
+    <div class="header">
+        <a href="#default" class="logo">Watson Assistant Insights Dashboard</a>
+        <div class="header-right">
+            <img th:src="@{/img/total-resource-management-squarelogo-1548272714887.png}" style="float: left;">
+        </div>
+    </div>
+</head>
+<body>
+<div class="dashboard">
+
+    <div class="tab">
+        <button class="tabLinks" onclick="openInsight(event, 'mostSearchedDocumentInfoGroup')" title="User Questions that Returned a File">UQRF</button>
+        <button class="tabLinks" onclick="openInsight(event, 'mostSearchedTextGroup')" title="User Questions All">UQA</button>
+        <button class="tabLinks" onclick="openInsight(event, 'mostAnsweredResponseGroup')" title="Most Returned Dialogues">MRD</button>
+        <button class="tabLinks" onclick="openInsight(event, 'frustrationLevelGroup')" title="Frustration Metrics">FSM</button>
+        <button class="tabLinks" onclick="openInsight(event, 'conversationsLogGroup')" title="Conversational Logs">CNL</button>
+    </div>
+
+    <!-- Charts within the dashboard -->
+    <div class="group" id="mostSearchedDocumentInfoGroup">
+        <section th:align="center">
+            <br>
+            <form>
+                <label for="mostSearchedDocumentInfoFromDate" id="mostSearchedDocumentInfoFromDateLabel">From Date: </label>
+                <input type="datetime-local" id="mostSearchedDocumentInfoFromDate" required>
+                <label for="mostSearchedDocumentInfoToDate" id="mostSearchedDocumentInfoToDateLabel">&nbsp; To Date: </label>
+                <input type="datetime-local" id="mostSearchedDocumentInfoToDate" required>
+            </form>
+            <br>
+            <button type="button" onclick="getMostSearchedDocumentInfo()" class="button">Generate Chart</button>
+            <br>
+            <br>
+            <section th:align="center" style="display: flex; width: 100%;">
+                <article class="highValues">
+                    <label>Most Asked Question that Returned a File:</label>
+                    <br>
+                    <label id="mostSearchedDocumentInfoName" style="font-size: x-large"></label>
+                </article>
+                <article class="highValues">
+                    <label>Times Asked:</label>
+                    <br>
+                    <label id="mostSearchedDocumentInfoValue" style="font-size: xx-large"></label>
+                </article>
+            </section>
+            <section th:align="center" style="text-align: center;">
+                <h2 style="position: relative; margin-bottom: -39px; z-index: 1;">User Questions that Returned a File</h2>
+                <div class="chart-box" id="mostSearchedDocumentInfoChart"></div>
+            </section>
+        </section>
+    </div>
+
+    <div class="group" id="mostSearchedTextGroup">
+        <section th:align="center">
+            <br>
+            <form >
+                <label for="mostSearchedTextFromDate" id="mostSearchedTextFromDateLabel">From Date</label>
+                <input type="datetime-local" id="mostSearchedTextFromDate" required>
+                <label for="mostSearchedTextToDate" id="mostSearchedTextToDateLabel">&nbsp; To Date</label>
+                <input type="datetime-local" id="mostSearchedTextToDate" required>
+            </form>
+            <br>
+            <button type="button" onclick="getMostSearchedText()" class="button">Generate Chart</button>
+            <br>
+            <br>
+            <section th:align="center" style="display: flex; width: 100%;">
+                <article class="highValues">
+                    <label>Most Asked Question:</label>
+                    <br>
+                    <label id="mostSearchedTextName" style="font-size: x-large"></label>
+                </article>
+                <article class="highValues">
+                    <label>Times Asked:</label>
+                    <br>
+                    <label id="mostSearchedTextValue" style="font-size: xx-large"></label>
+                </article>
+            </section>
+            <section th:align="center" style="text-align: center;">
+                <h2 style="position: relative; margin-bottom: -39px; z-index: 1;">User Questions All</h2>
+                <div class="chart-box" id="mostSearchedTextChart"></div>
+            </section>
+        </section>
+    </div>
+
+    <div class="group" id="mostAnsweredResponseGroup">
+        <section th:align="center">
+            <br>
+            <form >
+                <label for="mostAnsweredResponseFromDate" id="mostAnsweredResponseFromDateLabel">From Date</label>
+                <input type="datetime-local" id="mostAnsweredResponseFromDate" required>
+                <label for="mostAnsweredResponseToDate" id="mostAnsweredResponseToDateLabel">&nbsp; To Date</label>
+                <input type="datetime-local" id="mostAnsweredResponseToDate" required>
+            </form>
+            <br>
+            <button type="button" onclick="getMostAnsweredResponse()" class="button">Generate Chart</button>
+            <br>
+            <br>
+            <section th:align="center" style="display: flex; width: 100%;">
+                <article class="highValues">
+                    <label>Most Returned Dialogue:</label>
+                    <br>
+                    <label id="mostAnsweredResponseName" style="font-size: x-large"></label>
+                </article>
+                <article class="highValues">
+                    <label>Times Returned:</label>
+                    <br>
+                    <label id="mostAnsweredResponseValue" style="font-size: xx-large"></label>
+                </article>
+            </section>
+            <section th:align="center" style="text-align: center;">
+                <h2 style="position: relative; margin-bottom: -39px; z-index: 1;">Most Returned Dialogues</h2>
+                <div class="chart-box" id="mostAnsweredResponseChart"></div>
+            </section>
+        </section>
+    </div>
+
+    <div class="group" id="frustrationLevelGroup">
+        <section th:align="center">
+            <br>
+            <form >
+                <label for="frustrationLevelFromDate" id="frustrationLevelFromDateLabel">From Date</label>
+                <input type="datetime-local" id="frustrationLevelFromDate" required>
+                <label for="frustrationLevelToDate" id="frustrationLevelToDateLabel">&nbsp; To Date</label>
+                <input type="datetime-local" id="frustrationLevelToDate" required>
+            </form>
+            <br>
+            <button type="button" onclick="getFrustrationLevel()" class="button">Generate Chart</button>
+            <br>
+            <br>
+            <section th:align="center" style="display: flex; width: 100%;">
+                <article class="highValues">
+                    <label>Most Popular Negative Phrase:</label>
+                    <br>
+                    <label id="frustrationLevelName" style="font-size: x-large"></label>
+                </article>
+                <article class="highValues">
+                    <label>Times Returned:</label>
+                    <br>
+                    <label id="frustrationLevelValue" style="font-size: xx-large"></label>
+                </article>
+            </section>
+            <section th:align="center" style="text-align: center;">
+                <h2 style="position: relative; margin-bottom: -39px; z-index: 1;">Frustration Metrics</h2>
+                <div class="chart-box" id="frustrationLevelChart"></div>
+            </section>
+        </section>
+    </div>
+
+
+    <div class="group" id="conversationsLogGroup">
+        <section th:align="center">
+            <br>
+            <form >
+                <label for="conversationsLogFromDate" id="conversationsLogFromDateLabel">From Date: </label>
+                <input type="datetime-local" id="conversationsLogFromDate" required>
+                <label for="conversationsLogToDate" id="conversationsLogToDateLabel">&nbsp; To Date: </label>
+                <input type="datetime-local" id="conversationsLogToDate" required>
+                <label for="conversationsLogResponseTypeSelect" id="conversationsLogResponseTypeLabel">&nbsp; Response Type: </label>
+                <select id="conversationsLogResponseTypeSelect">
+                    <option value=""> -- select an option -- </option>
+                    <option value="pause">Pause</option>
+                    <option value="search">Search</option>
+                    <option value="text">Text</option>
+                    <option value="option">Option</option>
+                    <option value="suggestion">Suggestion</option>
+                </select>
+                <label for="conversationsLogWatsonChatIdText" id="conversationsLogWatsonChatIdLabel">&nbsp; Watson Chat ID: </label>
+                <input type="text" id="conversationsLogWatsonChatIdText">
+            </form>
+            <br>
+            <button type="button" onclick="drawConversationalLogTable()" class="button">Generate Table</button>
+            <br>
+            <br>
+            <section th:align="center" style="text-align: center;">
+                <h2 style="position: relative; margin-bottom: 20px; z-index: 1;">Conversational Logs</h2>
+                <div class="chart-box" id="conversationsLogChart"></div>
+            </section>
+            <br>
+            <br>
+            <br>
+        </section>
+    </div>
+
+</div>
+</body>
+</html>

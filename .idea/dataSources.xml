@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="MySQL - trmwatsonassistant@localhost" uuid="641501fd-fe1d-436a-8349-061add328a03">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/trmwatsonassistant</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="IBM Db2 - TRM Watson Assistant" uuid="251319d8-0bcc-4ac7-8c36-df47c1c3fca4">
+      <driver-ref>db2.11</driver-ref>
+      <jdbc-driver>com.ibm.db2.jcc.DB2Driver</jdbc-driver>
+      <jdbc-url>jdbc:db2://248a7a4e-6318-4cc0-8900-4f2ee4400f3d.c3n41cmd0nqnrk39u98g.databases.appdomain.cloud:31109/bludb:sslConnection=true;</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="bludb@248a7a4e-6318-4cc0-8900-4f2ee4400f3d.c3n41cmd0nqnrk39u98g.databases.appdomain.cloud" uuid="528d4070-c086-4e91-a47f-5d6ffb180ac1">
+      <driver-ref>db2.11</driver-ref>
+      <jdbc-driver>com.ibm.db2.jcc.DB2Driver</jdbc-driver>
+      <jdbc-url>jdbc:db2://248a7a4e-6318-4cc0-8900-4f2ee4400f3d.c3n41cmd0nqnrk39u98g.databases.appdomain.cloud:31109/bludb:sslConnection=true;</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
