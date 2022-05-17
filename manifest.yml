@@ -1,0 +1,16 @@
+applications:
+- buildpack: java_buildpack
+  disk_quota: 1G
+  domain: null
+  env:
+    JAVA_OPTS: -XX:ReservedCodeCacheSize=32M -XX:MaxDirectMemorySize=32M
+    JBP_CONFIG_OPEN_JDK_JRE: '[memory_calculator: {stack_threads: 30}]'
+  host: null
+  instances: 1
+  label: QA
+  memory: 512MB
+  name: trmwatsonassistant
+  path: ./target/TRMWatsonAssistant-1.0.0.jar
+  routes:
+  - route: trm-watson-assistant.us-south.cf.appdomain.cloud
+  timeout: 180
