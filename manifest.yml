@@ -12,5 +12,5 @@ applications:
   name: trmwatsonassistant
   path: ./target/TRMWatsonAssistant-1.0.0.jar
   routes:
-  - route: trm-watson-assistant.us-south.cf.appdomain.cloud
+  - route: trm-watson-assistant-qa.us-south.cf.appdomain.cloud
   timeout: 180
